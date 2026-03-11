@@ -4768,3 +4768,4 @@ rrno 11001] getaddrinfo failed)"))
 2026-03-12 00:30:57,668 [INFO] JSON 저장: briefing_20260312_0030.json
 2026-03-12 00:30:57,680 [INFO] HTML 생성: ./output\briefing_20260312_0030.html
 2026-03-12 00:30:57,682 [INFO] Job "scheduled_job (trigger: cron[minute='0,15,30,45'], next run at: 2026-03-12 00:45:00 KST)" executed successfully
+2026-03-12 00:45:00,003 [INFO] Running job "scheduled_job (trigger: cron[minute='0,15,30,45'], next run at: 2026-03-12 01:00:00 KST)" (scheduled at 2026-03-12 00:45:00+09:00)
