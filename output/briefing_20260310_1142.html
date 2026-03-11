@@ -1,0 +1,687 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>식품진흥원 뉴스 브리핑 2026년 03월 10일</title>
+<style>
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{font-family:'Apple SD Gothic Neo','Noto Sans KR',sans-serif;background:#f2f0eb;color:#1a1814;font-size:14px;line-height:1.6;}
+
+  /* ── 마스트헤드 ── */
+  .masthead{background:#1a237e;color:#fff;}
+  .mast-top{display:flex;justify-content:space-between;align-items:center;padding:7px 24px;border-bottom:1px solid rgba(255,255,255,.12);font-size:11px;opacity:.85;}
+  .live{display:flex;align-items:center;gap:5px;color:#ffd740;font-weight:600;}
+  .dot{width:7px;height:7px;background:#ffd740;border-radius:50%;animation:blink 1.4s infinite;}
+  @keyframes blink{0%,100%{opacity:1}50%{opacity:.15}}
+  .mast-body{text-align:center;padding:16px 24px 10px;}
+  .mast-body h1{font-size:22px;font-weight:700;letter-spacing:-.01em;}
+  .mast-body .sub{font-size:11px;opacity:.7;margin-top:4px;}
+  .mast-meta{display:flex;justify-content:space-between;align-items:center;padding:8px 24px;border-top:1px solid rgba(255,255,255,.1);font-size:12px;}
+
+  /* ── 카운트다운 ── */
+  .countdown-wrap{display:flex;align-items:center;gap:8px;}
+  .countdown-label{opacity:.75;}
+  .countdown-box{
+    display:flex;align-items:center;gap:4px;
+    background:rgba(255,255,255,.12);
+    border:1px solid rgba(255,255,255,.2);
+    border-radius:8px;padding:3px 12px;
+    font-size:14px;font-weight:700;letter-spacing:.04em;
+  }
+  .cd-sep{opacity:.6;font-size:12px;}
+
+  /* ── 진행 바 ── */
+  .progress-bar-wrap{height:3px;background:rgba(255,255,255,.15);}
+  .progress-bar{height:3px;background:#ffd740;transition:width 1s linear;}
+
+  /* ── 컨테이너 ── */
+  .container{max-width:820px;margin:0 auto;padding:18px 14px 48px;}
+  .update-bar{background:#e8f5e9;border-left:4px solid #43a047;padding:8px 14px;margin-bottom:12px;font-size:12px;color:#2e7d32;border-radius:0 6px 6px 0;}
+  .copy-notice{background:#fff8e1;border:1px solid #ffe082;border-radius:8px;padding:8px 14px;font-size:11px;color:#795548;margin-bottom:14px;}
+  .stats{display:flex;flex-wrap:wrap;gap:7px;margin-bottom:16px;}
+  .stat-chip{background:#fff;border-radius:20px;padding:4px 13px;font-size:11.5px;box-shadow:0 1px 3px rgba(0,0,0,.1);color:#444;}
+
+  /* ── 섹션 ── */
+  .section{background:#fff;border-radius:10px;margin-bottom:14px;overflow:hidden;box-shadow:0 1px 4px rgba(0,0,0,.08);}
+  .sec-header{display:flex;align-items:center;gap:8px;padding:10px 16px;color:#fff;font-weight:700;font-size:12.5px;letter-spacing:.04em;}
+  .sec-count{margin-left:auto;background:rgba(255,255,255,.2);border-radius:10px;padding:1px 10px;font-size:11px;}
+
+  /* ── 기사 ── */
+  .art-list{padding:0;}
+  .page-content{display:none;}
+  .art-item{padding:11px 16px;border-bottom:1px solid #f0f0f0;transition:background .12s;}
+  .art-item:hover{background:#fafaf7;}
+  .art-item:last-child{border-bottom:none;}
+  .art-item.featured{background:linear-gradient(135deg,#fffdf9,#faf7f0);border-bottom:2px solid #e8e4dc;}
+  .art-header{display:flex;align-items:center;gap:6px;margin-bottom:4px;}
+  .art-num{font-size:10px;color:#bbb;font-weight:700;min-width:20px;}
+  .kw-tag{background:#e3f2fd;color:#1565c0;font-size:10px;padding:1px 7px;border-radius:8px;font-weight:600;}
+  .art-title{font-size:13.5px;font-weight:600;color:#1a237e;text-decoration:none;display:block;line-height:1.45;margin-bottom:3px;}
+  .art-title:hover{color:#c0392b;text-decoration:underline;}
+  .art-item.featured .art-title{font-size:14.5px;}
+  .art-desc{font-size:12px;color:#666;margin-bottom:4px;line-height:1.5;}
+  .art-meta{display:flex;gap:10px;font-size:10.5px;color:#bbb;}
+  .art-link{color:#1565c0;}
+
+  /* ── 페이지네이션 ── */
+  .pagination{
+    display:flex;align-items:center;gap:4px;
+    padding:10px 16px;
+    border-top:1px solid #f0f0f0;
+    background:#fafafa;
+    flex-wrap:wrap;
+  }
+  .pg-btn{
+    min-width:30px;height:30px;
+    border:1px solid #ddd;background:#fff;
+    border-radius:6px;font-size:12px;font-weight:600;
+    color:#555;cursor:pointer;transition:all .15s;
+  }
+  .pg-btn:hover{border-color:#1a237e;color:#1a237e;}
+  .pg-active{background:#1a237e !important;color:#fff !important;border-color:#1a237e !important;}
+  .pg-arrow{
+    min-width:30px;height:30px;
+    border:1px solid #ddd;background:#fff;
+    border-radius:6px;font-size:15px;color:#555;
+    cursor:pointer;transition:all .15s;
+  }
+  .pg-arrow:hover{border-color:#1a237e;color:#1a237e;}
+  .pg-info{margin-left:auto;font-size:11px;color:#aaa;}
+  .pg-single-info{padding:8px 16px;font-size:11px;color:#aaa;border-top:1px solid #f0f0f0;background:#fafafa;}
+
+  .footer{text-align:center;font-size:11px;color:#aaa;padding:20px;border-top:1px solid #e0ddd6;line-height:1.9;}
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="mast-top">
+    <span>국가식품클러스터지원센터 내부 자료</span>
+    <span class="live"><span class="dot"></span>LIVE · 자동수집</span>
+    <span>2026-03-10 11:42:25 기준</span>
+  </div>
+  <div class="mast-body">
+    <h1>🍱 식품진흥원 뉴스 브리핑</h1>
+    <div class="sub">네이버 뉴스 API · 키워드 100% 일치 · 유사도 60% 중복 제거 · 15분 간격</div>
+  </div>
+  <div class="mast-meta">
+    <span>2026년 03월 10일 · 총 <strong>66건</strong></span>
+    <div class="countdown-wrap">
+      <span class="countdown-label">다음 수집까지</span>
+      <div class="countdown-box">
+        <span id="cd-min">00</span>
+        <span class="cd-sep">:</span>
+        <span id="cd-sec">00</span>
+      </div>
+    </div>
+  </div>
+  <div class="progress-bar-wrap">
+    <div class="progress-bar" id="progress-bar" style="width:100%"></div>
+  </div>
+</header>
+
+<div class="container">
+  <div class="update-bar">🔄 마지막 업데이트: <strong>2026-03-10 11:42:25</strong> · 총 <strong>66건</strong></div>
+  <div class="copy-notice">⚖️ <strong>저작권 안내:</strong> 공식 API를 통해 수집된 기사 제목과 요약만 표시합니다. 본문은 원문 링크를 통해 확인하세요.</div>
+  <div class="stats"><span class="stat-chip">🏢 식품진흥원 & 국가식품클러스터 31건</span>
+<span class="stat-chip">🍱 식품산업 20건</span>
+<span class="stat-chip">📋 관계기관 주요 동향 15건</span>
+</div>
+  
+      <div class="section">
+        <div class="sec-header" style="background:#1b4332;">
+          <span>🏢</span>
+          <span>식품진흥원 & 국가식품클러스터</span>
+          <span class="sec-count">31건</span>
+        </div>
+        <div class="art-list" id="artlist-식품진흥원__국가식품클러스터">
+          <div class="page-content" data-cat="식품진흥원__국가식품클러스터" data-page="1" style="display:none">
+            <div class="art-item ">
+              <div class="art-header">
+                <span class="art-num">17</span>
+                <span class="kw-tag">국가식품클러스터</span>
+              </div>
+              <a class="art-title" href="http://www.globalepic.co.kr/view.php?ud=20260309140832259748439a4874_29" target="_blank" rel="noopener">[심층분석] 병아리 10마리에서 매출 13조까지 … 하림의 성장비결은</a>
+              <div class="art-desc">또한 하림은 익산 국가식품클러스터에 첨단 육가공종합식품 가공공장을 건립 중이다. 2025년 8월 착공해 2027년 완공 예정이며, 디지털 및 AI 기반의 스마트 운용 시스템을 갖춘 차세대 식품 공장이 될 것으로 기대된다.... ...</div>
+              <div class="art-meta">
+                <span>📰 globalepic.co.kr</span>
+                <span>🕐 03/09 14:16</span>
+                <span class="art-link">→ 원문 보기</span>
+              </div>
+            </div>
+            <div class="art-item ">
+              <div class="art-header">
+                <span class="art-num">18</span>
+                <span class="kw-tag">국가식품클러스터</span>
+              </div>
+              <a class="art-title" href="https://www.seoul.co.kr/news/politics/2026/03/09/20260309500144?wlog_tag3=naver" target="_blank" rel="noopener">김민석 총리, 익산에 전셋집 계약 ‘갑자기 왜?’…“4월 이사”</a>
+              <div class="art-desc">김 총리는 최근 익산에 있는 국가식품클러스터를 방문, 대한민국의 식품 산업을 이끌어갈 익산시의 중추적인 역할과 성장 가능성을 높이 평가했다. 지난 5일 새만금개발청을 방문한 자리에서는 “나중에 정치를 그만두고... ...</div>
+              <div class="art-meta">
+                <span>📰 seoul.co.kr</span>
+                <span>🕐 03/09 13:43</span>
+                <span class="art-link">→ 원문 보기</span>
+              </div>
+            </div>
+            <div class="art-item ">
+              <div class="art-header">
+                <span class="art-num">19</span>
+                <span class="kw-tag">국가식품클러스터</span>
+              </div>
+              <a class="art-title" href="https://www.gukjenews.com/news/articleView.html?idxno=3523503" target="_blank" rel="noopener">농림축산식품부· K-푸드 글로벌 수출 전진기지로 전북 선정</a>
+              <div class="art-desc">4대 전략으로는 △국가식품클러스터 고도화 △새만금 중심 헴프산업(그린바이오) 전진기지 조성 △AI 스마트농업·재생에너지 융합 △미식·관광 연계 브랜드화 산업 조성 등을 제시했다. 특히 익산 국가식품클러스터를... ...</div>
+              <div class="art-meta">
+                <span>📰 gukjenews.com</span>
+                <span>🕐 03/09 13:02</span>
+                <span class="art-link">→ 원문 보기</span>
+              </div>
+            </div>
+            <div class="art-item ">
+              <div class="art-header">
+                <span class="art-num">20</span>
+                <span class="kw-tag">국가식품클러스터</span>
+              </div>
+              <a class="art-title" href="https://www.dailysportshankook.co.kr/news/articleView.html?idxno=425339" target="_blank" rel="noopener">[기획ㅣ전북의 목소리, 국정에 닿다①] '계획'에서 '실행'으로… 국토부...</a>
+              <div class="art-desc">도는 제5차 국가철도망에 영호남 내륙선(전주~김천)·국가식품클러스터 인입선(동익산~완주산단)·서해안선(새만금~목포), 제3차 고속도로 계획에 전주~무주·완주~세종 노선을 반영해 줄 것을 건의했다. 새만금의 핵심... ...</div>
+              <div class="art-meta">
+                <span>📰 dailysportshankook.co.kr</span>
+                <span>🕐 03/09 12:56</span>
+                <span class="art-link">→ 원문 보기</span>
+              </div>
+            </div>
+            <div class="art-item ">
+              <div class="art-header">
+                <span class="art-num">21</span>
+                <span class="kw-tag">국가식품클러스터</span>
+              </div>
+              <a class="art-title" href="https://www.dailysportshankook.co.kr/news/articleView.html?idxno=425336" target="_blank" rel="noopener">[기획ㅣ전북의 목소리, 국정에 닿다③] 농식품부·전북, K-푸드 글로벌 ...</a>
+              <div class="art-desc">4대 전략으로는 ▲국가식품클러스터 고도화 ▲새만금 중심 헴프산업(그린바이오) 전진기지 조성 ▲AI 스마트농업·재생에너지 융합 ▲미식·관광 연계 브랜드화 산업 조성 등을 제시했다. 특히 익산 국가식품클러스터를... ...</div>
+              <div class="art-meta">
+                <span>📰 dailysportshankook.co.kr</span>
+                <span>🕐 03/09 12:46</span>
+                <span class="art-link">→ 원문 보기</span>
+              </div>
+            </div>
+            <div class="art-item ">
+              <div class="art-header">
+                <span class="art-num">22</span>
+                <span class="kw-tag">국가식품클러스터</span>
+              </div>
+              <a class="art-title" href="http://www.enewstoday.co.kr/news/articleView.html?idxno=2403029" target="_blank" rel="noopener">"익산 변화의 시작" 심보균 익산시장 예비후보 선거사무소 개소</a>
+              <div class="art-desc">그는 국가식품클러스터 중심의 식품산업 고도화와 바이오·식품 융합 산업 육성, 청년 일자리 확대 등을 통해 "익산을 전북 경제 중심 도시로 재도약시키겠다"고 주장했다. 또한, 주거·교통·문화 인프라 개선과 함께 시민... ...</div>
+              <div class="art-meta">
+                <span>📰 enewstoday.co.kr</span>
+                <span>🕐 03/09 11:35</span>
+                <span class="art-link">→ 원문 보기</span>
+              </div>
+            </div>
+            <div class="art-item ">
+              <div class="art-header">
+                <span class="art-num">23</span>
+                <span class="kw-tag">국가식품클러스터</span>
+              </div>
+              <a class="art-title" href="https://www.joongdo.co.kr/web/view.php?key=20260309010002517" target="_blank" rel="noopener">전북특별자치도, K-푸드 글로벌 수출 전진기지 육성</a>
+              <div class="art-desc">4대 전략으로는 ▲국가식품클러스터 고도화 ▲새만금 중심 헴프산업(그린바이오) 전진기지 조성 ▲AI 스마트농업·재생에너지 융합 ▲미식·관광 연계 브랜드화 산업 조성 등을 제시했다. 특히 익산 국가식품클러스터를... ...</div>
+              <div class="art-meta">
+                <span>📰 joongdo.co.kr</span>
+                <span>🕐 03/09 11:32</span>
+                <span class="art-link">→ 원문 보기</span>
+              </div>
+            </div>
+            <div class="art-item ">
+              <div class="art-header">
+                <span class="art-num">24</span>
+                <span class="kw-tag">국가식품클러스터</span>
+              </div>
+              <a class="art-title" href="https://www.newspim.com/news/view/20260309000509" target="_blank" rel="noopener">전북자치도 '농생명수도' 전략 본격 추진</a>
+              <div class="art-desc">새만금헴프산업클러스터 구상도[사진=전북자치도] 2026.03.09 lbs0964@newspim.com 앞서 송 장관은 지난 27일 타운홀미팅에서 △국가식품클러스터 고도화 △새만금 헴프산업 전진기지 조성 △AI 스마트농업·재생에너지 융합... ...</div>
+              <div class="art-meta">
+                <span>📰 newspim.com</span>
+                <span>🕐 03/09 11:20</span>
+                <span class="art-link">→ 원문 보기</span>
+              </div>
+            </div>
+            <div class="art-item ">
+              <div class="art-header">
+                <span class="art-num">25</span>
+                <span class="kw-tag">국가식품클러스터</span>
+              </div>
+              <a class="art-title" href="https://www.asiatoday.co.kr/view.php?key=20260309010002250" target="_blank" rel="noopener">전북도, K-푸드 세계화 전진기지 구축…식품·그린바이오·스마트농업 ...</a>
+              <div class="art-desc">국가식품클러스터 고도화·새만금 헴프산업 육성 미식·관광·농촌체혐 연계 고부가 산업 모델 구축 전북특별자치도는 송미령 농림축산식품부 장관의 'K-푸드 세계화 전진기지, 농생명수도 전북' 전략 발표를 계기로 관련... ...</div>
+              <div class="art-meta">
+                <span>📰 asiatoday.co.kr</span>
+                <span>🕐 03/09 10:56</span>
+                <span class="art-link">→ 원문 보기</span>
+              </div>
+            </div>
+            <div class="art-item ">
+              <div class="art-header">
+                <span class="art-num">26</span>
+                <span class="kw-tag">국가식품클러스터</span>
+              </div>
+              <a class="art-title" href="https://www.ekn.kr/web/view.php?key=20260309027566121" target="_blank" rel="noopener">심보균 익산시장 예비후보 선거사무소 개소 “익산 변화의 시작”...최...</a>
+              <div class="art-desc">특히 국가식품클러스터 중심의 식품산업 고도화, 바이오·식품 융합 산업 육성, 청년 일자리 확대 등을 통해 “익산을 전북 경제 중심 도시로 재도약시키겠다"며 익산 경제 회복과 미래 산업 육성을 핵심 과제로 제시했다.... ...</div>
+              <div class="art-meta">
+                <span>📰 ekn.kr</span>
+                <span>🕐 03/09 09:04</span>
+                <span class="art-link">→ 원문 보기</span>
+              </div>
+            </div>
+            <div class="art-item ">
+              <div class="art-header">
+                <span class="art-num">27</span>
+                <span class="kw-tag">국가식품클러스터</span>
+              </div>
+              <a class="art-title" href="https://www.busan.com/view/busan/view.php?code=2026030618100793032" target="_blank" rel="noopener">성균바이오텍, 중금속 해독 원료 상용화 나선다…식품진흥원과 협약 체...</a>
+              <div class="art-desc">식품진흥원은 전북 익산에 있는 식품전문 산업단지인 국가식품클러스터 입주기업을 지원하는 공공기관이다. 전문인력과 첨단 인프라를 입주기업들에게 제공해 입주기업들이 식품과 기능성 소재 개발이 성공할 수... ...</div>
+              <div class="art-meta">
+                <span>📰 busan.com</span>
+                <span>🕐 03/06 18:26</span>
+                <span class="art-link">→ 원문 보기</span>
+              </div>
+            </div>
+            <div class="art-item ">
+              <div class="art-header">
+                <span class="art-num">28</span>
+                <span class="kw-tag">국가식품클러스터</span>
+              </div>
+              <a class="art-title" href="https://www.ekn.kr/web/view.php?key=20260306029255448" target="_blank" rel="noopener">익산시장 예비후보 3인, 혁신도시·민생지원·소각장 이전 공약 경쟁 리...</a>
+              <div class="art-desc">타운홀미팅 때 “정부와 함께 익산 국가식품클러스터를 K-푸드 혁신 중심지로 만들겠다" 조용식 익산시장 예비후보가 이재명 대통령과 밀착 동행하는 장면이 포착되면서 '이재명과 동행한 후보'라는 이미지가 부각 돼... ...</div>
+              <div class="art-meta">
+                <span>📰 ekn.kr</span>
+                <span>🕐 03/06 15:24</span>
+                <span class="art-link">→ 원문 보기</span>
+              </div>
+            </div>
+            <div class="art-item ">
+              <div class="art-header">
+                <span class="art-num">29</span>
+                <span class="kw-tag">국가식품클러스터</span>
+              </div>
+              <a class="art-title" href="https://www.pressian.com/pages/articles/2026030613033214935?utm_source=naver&utm_medium=search" target="_blank" rel="noopener">전북지사 불출마 이후 '몸값 천정부지'…정헌율 "익산이 전북 움직일 차...</a>
+              <div class="art-desc">안호영 의원은 당일에 "정치적 유불리를 떠나 정책연대에 흔쾌히 응해준 정 시장의 용단에 감사하다"며 "정 시장이 발표한 공약과 정책들을 충실히 이행하고 풍부한 행정경험과 국가식품클러스터를 통해 얻은 지방행정... ...</div>
+              <div class="art-meta">
+                <span>📰 pressian.com</span>
+                <span>🕐 03/06 13:54</span>
+                <span class="art-link">→ 원문 보기</span>
+              </div>
+            </div>
+            <div class="art-item ">
+              <div class="art-header">
+                <span class="art-num">30</span>
+                <span class="kw-tag">국가식품클러스터</span>
+              </div>
+              <a class="art-title" href="https://www.sportsseoul.com/news/read/1591062?ref=naver" target="_blank" rel="noopener">전북자치도-국토교통부, 전북 200만 메가시티 청사진 제시...“광역 교통...</a>
+              <div class="art-desc">도는 제5차 국가철도망에 영호남 내륙선(전주~김천)·국가식품클러스터 인입선(동익산~완주산단)·서해안선(새만금~목포), 제3차 고속도로 계획에 전주~무주·완주~세종 노선을 반영해 줄 것을 건의했다. 새만금의 핵심... ...</div>
+              <div class="art-meta">
+                <span>📰 sportsseoul.com</span>
+                <span>🕐 03/06 09:23</span>
+                <span class="art-link">→ 원문 보기</span>
+              </div>
+            </div>
+            <div class="art-item ">
+              <div class="art-header">
+                <span class="art-num">31</span>
+                <span class="kw-tag">국가식품클러스터</span>
+              </div>
+              <a class="art-title" href="https://www.ekn.kr/web/view.php?key=20260306021065441" target="_blank" rel="noopener">최정호 전 국토부차관, 익산시장 출마 공식선언… ‘익산대전환 시민연...</a>
+              <div class="art-desc">국가식품클러스터 2단계를 완성하고 혁신기업과 글로벌 기업 유치를 통해 산업 생태계를 재편해 일자리와 성장 기반을 확대하겠다고 설명했다. 둘째, 도시 대전환이다. 익산을 교통·물류 중심 도시로 발전시키고 익산역과... ...</div>
+              <div class="art-meta">
+                <span>📰 ekn.kr</span>
+                <span>🕐 03/06 08:04</span>
+                <span class="art-link">→ 원문 보기</span>
+              </div>
+            </div></div>
+        </div>
+        
+          <div class="pagination" id="pg-식품진흥원__국가식품클러스터">
+            <button class="pg-arrow" onclick="goPage('식품진흥원__국가식품클러스터', getPgCurrent('식품진흥원__국가식품클러스터')-1)">‹</button>
+            <button class="pg-btnpg-active" onclick="goPage('식품진흥원__국가식품클러스터',0)" id="pgbtn-식품진흥원__국가식품클러스터-0">1</button><button class="pg-btn" onclick="goPage('식품진흥원__국가식품클러스터',1)" id="pgbtn-식품진흥원__국가식품클러스터-1">2</button>
+            <button class="pg-arrow" onclick="goPage('식품진흥원__국가식품클러스터', getPgCurrent('식품진흥원__국가식품클러스터')+1)">›</button>
+            <span class="pg-info" id="pginfo-식품진흥원__국가식품클러스터">1 / 2 페이지 · 총 31건</span>
+          </div>
+      </div>
+      <div class="section">
+        <div class="sec-header" style="background:#154360;">
+          <span>🍱</span>
+          <span>식품산업</span>
+          <span class="sec-count">20건</span>
+        </div>
+        <div class="art-list" id="artlist-식품산업">
+          <div class="page-content" data-cat="식품산업" data-page="1" style="display:none">
+            <div class="art-item ">
+              <div class="art-header">
+                <span class="art-num">17</span>
+                <span class="kw-tag">K-Food</span>
+              </div>
+              <a class="art-title" href="http://www.newsmaker.or.kr/news/articleView.html?idxno=174949" target="_blank" rel="noopener">전북자치도,'K-Food 콘텐츠'로 스포츠 외교와 식문화 홍보 나서</a>
+              <div class="art-desc">전북특별자치도가 전북 농특산물을 활용한 K-Food 콘텐츠로 국제 스포츠 외교와 지역 식문화 홍보에 나선다. 도는 5일 도청에서 전주대학교 K-Food 산업연구소와 한식조리학과를 '전북특별자치도 K-Food 스포츠 외교... ...</div>
+              <div class="art-meta">
+                <span>📰 newsmaker.or.kr</span>
+                <span>🕐 03/06 15:34</span>
+                <span class="art-link">→ 원문 보기</span>
+              </div>
+            </div>
+            <div class="art-item ">
+              <div class="art-header">
+                <span class="art-num">18</span>
+                <span class="kw-tag">K-Food</span>
+              </div>
+              <a class="art-title" href="http://www.breaknews.com/1189652" target="_blank" rel="noopener">aT 농수산식품유통교육원, 농식품 전문가 양성 ‘K-FOOD 아카데미’ 입...</a>
+              <div class="art-desc">상반기 ‘K-FOOD 아카데미’ 입학식을 개최했다. aT에 따르면, ‘K-FOOD 아카데미’는 2004년부터 시작되어 농식품산업 분야의 대표적인 심화 교육과정으로 자리... ...</div>
+              <div class="art-meta">
+                <span>📰 breaknews.com</span>
+                <span>🕐 03/06 14:04</span>
+                <span class="art-link">→ 원문 보기</span>
+              </div>
+            </div>
+            <div class="art-item ">
+              <div class="art-header">
+                <span class="art-num">19</span>
+                <span class="kw-tag">K-Food</span>
+              </div>
+              <a class="art-title" href="https://www.smartbizn.com/news/articleView.html?idxno=138019" target="_blank" rel="noopener">포천시, '외국인주민과 함께하는 K-FOOD데이' 요리 교실 운영</a>
+              <div class="art-desc">| 스마트비즈 = 이낙원 기자 | 포천시가 외국인주민의 한국 생활 적응과 문화 교류를 돕기 위해 '외국인주민과 함께하는 K-FOOD 데이' 요리 프로그램을 시작했다. 6일 시에 따르면 이번 교육은 외국인주민들이 한국의... ...</div>
+              <div class="art-meta">
+                <span>📰 smartbizn.com</span>
+                <span>🕐 03/06 13:38</span>
+                <span class="art-link">→ 원문 보기</span>
+              </div>
+            </div>
+            <div class="art-item ">
+              <div class="art-header">
+                <span class="art-num">20</span>
+                <span class="kw-tag">K-Food</span>
+              </div>
+              <a class="art-title" href="http://www.weeklytoday.com/news/articleView.html?idxno=763569" target="_blank" rel="noopener">[위클리오늘] 포천시, '외국인주민과 함께하는 K-FOOD데이' 요리 교실 운...</a>
+              <div class="art-desc">포천시가 외국인주민의 한국 생활 적응과 문화 교류를 돕기 위해 '외국인주민과 함께하는 K-FOOD 데이' 요리 프로그램을 시작했다. 이번 교육은 외국인주민들이 한국의 식문화를 직접 체험하고 지역사회와 자연스럽게... ...</div>
+              <div class="art-meta">
+                <span>📰 weeklytoday.com</span>
+                <span>🕐 03/06 12:40</span>
+                <span class="art-link">→ 원문 보기</span>
+              </div>
+            </div></div>
+        </div>
+        
+          <div class="pagination" id="pg-식품산업">
+            <button class="pg-arrow" onclick="goPage('식품산업', getPgCurrent('식품산업')-1)">‹</button>
+            <button class="pg-btnpg-active" onclick="goPage('식품산업',0)" id="pgbtn-식품산업-0">1</button><button class="pg-btn" onclick="goPage('식품산업',1)" id="pgbtn-식품산업-1">2</button>
+            <button class="pg-arrow" onclick="goPage('식품산업', getPgCurrent('식품산업')+1)">›</button>
+            <span class="pg-info" id="pginfo-식품산업">1 / 2 페이지 · 총 20건</span>
+          </div>
+      </div>
+      <div class="section">
+        <div class="sec-header" style="background:#784212;">
+          <span>📋</span>
+          <span>관계기관 주요 동향</span>
+          <span class="sec-count">15건</span>
+        </div>
+        <div class="art-list" id="artlist-관계기관_주요_동향">
+          <div class="page-content" data-cat="관계기관_주요_동향" data-page="0" style="display:block">
+            <div class="art-item featured">
+              <div class="art-header">
+                <span class="art-num">01</span>
+                <span class="kw-tag">농협중앙회</span>
+              </div>
+              <a class="art-title" href="http://www.wsobi.com/news/articleView.html?idxno=306680" target="_blank" rel="noopener">강호동 농협중앙회장 "청년여성농업인이 대한민국 농업의 미래"</a>
+              <div class="art-desc">농협중앙회는 강호동 회장이 지난 9일 서울시 중구 농업박물관에서 열린 2026년 청년여성농업인협동조합 연시총회에 참석해 청년 여성농업인들을 격려했다고 밝혔다. 청여농은 만 18세에서 만 45세까지 농업에 종사하는... ...</div>
+              <div class="art-meta">
+                <span>📰 wsobi.com</span>
+                <span>🕐 03/10 11:14</span>
+                <span class="art-link">→ 원문 보기</span>
+              </div>
+            </div>
+            <div class="art-item ">
+              <div class="art-header">
+                <span class="art-num">02</span>
+                <span class="kw-tag">농협중앙회</span>
+              </div>
+              <a class="art-title" href="https://dealsite.co.kr/articles/158087" target="_blank" rel="noopener">수사의뢰 14건 중 6건 '강호동 관련'…농협중앙회장 사퇴 압박 재점화</a>
+              <div class="art-desc">선거비용 유용·황금열쇠 수수 의혹…직선제 구조에 해임 장벽, 임기 버티기 전망 농협에 대한 정부합동 특별감사 결과가 발표되면서 강호동 농협중앙회장의 거취 문제가 다시 수면 위로 떠오르고 있다. 특히 정부가 경찰... ...</div>
+              <div class="art-meta">
+                <span>📰 dealsite.co.kr</span>
+                <span>🕐 03/10 11:06</span>
+                <span class="art-link">→ 원문 보기</span>
+              </div>
+            </div>
+            <div class="art-item ">
+              <div class="art-header">
+                <span class="art-num">03</span>
+                <span class="kw-tag">농협중앙회</span>
+              </div>
+              <a class="art-title" href="http://www.headlinejeju.co.kr/news/articleView.html?idxno=588329" target="_blank" rel="noopener">제주 농축협, 2025년 농협중앙회 상호금융대상 대거 석권</a>
+              <div class="art-desc">농협제주본부는 농협중앙회가 전국 1110개 농축협을 대상으로 실시한  '2025년 상호금융대상 평가'에서 제주지역 농축협 12곳이 수상했다고 10일 밝혔다. 상호금융대상 평가는 재무 건전성, 고객만족, 사업 성장성, 학습... ...</div>
+              <div class="art-meta">
+                <span>📰 headlinejeju.co.kr</span>
+                <span>🕐 03/10 10:42</span>
+                <span class="art-link">→ 원문 보기</span>
+              </div>
+            </div>
+            <div class="art-item ">
+              <div class="art-header">
+                <span class="art-num">04</span>
+                <span class="kw-tag">농협중앙회</span>
+              </div>
+              <a class="art-title" href="http://www.newstnt.com/news/articleView.html?idxno=593808" target="_blank" rel="noopener">농협중앙회·보증기금, 청년여성농업인 격려·심사역 실무능력 향상 교...</a>
+              <div class="art-desc">농협중앙회와 농림수산업자신용보증기금이 각기 농촌 현장과 금융 지원 체계 강화를 위해 잇따라 행사를 열었다. 9일 서울 농업박물관에서 열린 2026년 청년여성농업인협동조합(이하 청여농) 연시총회에는 강호동... ...</div>
+              <div class="art-meta">
+                <span>📰 newstnt.com</span>
+                <span>🕐 03/10 09:40</span>
+                <span class="art-link">→ 원문 보기</span>
+              </div>
+            </div>
+            <div class="art-item ">
+              <div class="art-header">
+                <span class="art-num">05</span>
+                <span class="kw-tag">농협중앙회</span>
+              </div>
+              <a class="art-title" href="https://www.jejudomin.co.kr/news/articleView.html?idxno=317424" target="_blank" rel="noopener">제주지역 농축협, 2025년 농협중앙회 상호금융대상 역대 최대 성과</a>
+              <div class="art-desc">제주남원농협(조합장 고일학)은 대그룹 1위를 차지하며 최우수상을 수상했다. 더욱이 2023년 최우수상, 2024년 우수상(1위), 2025년 최우수상을 기록하며 3년 연속 최상위권 성적을 이어가는 저력을 보였다. 또 제주시농협... ...</div>
+              <div class="art-meta">
+                <span>📰 jejudomin.co.kr</span>
+                <span>🕐 03/10 09:12</span>
+                <span class="art-link">→ 원문 보기</span>
+              </div>
+            </div>
+            <div class="art-item ">
+              <div class="art-header">
+                <span class="art-num">06</span>
+                <span class="kw-tag">농촌진흥청</span>
+              </div>
+              <a class="art-title" href="http://www.econonews.co.kr/news/articleView.html?idxno=430311" target="_blank" rel="noopener">농촌진흥청, 과수 주산지 현장기술지원단 가동...저온 피해 대응-사과·...</a>
+              <div class="art-desc">농촌진흥청은 봄철 과수 개화기 저온 피해를 최소화하기 위해 오는 5월까지 현장 기술지원단을 운영한다고 9일 밝혔다. 농진청은 도 농업기술원과 시군 농업기술센터와 함께 사과·배·포도·복숭아·단감 등 주요 과수 5개... ...</div>
+              <div class="art-meta">
+                <span>📰 econonews.co.kr</span>
+                <span>🕐 03/09 21:46</span>
+                <span class="art-link">→ 원문 보기</span>
+              </div>
+            </div>
+            <div class="art-item ">
+              <div class="art-header">
+                <span class="art-num">07</span>
+                <span class="kw-tag">한국농수산식품유통공사</span>
+              </div>
+              <a class="art-title" href="https://www.news2day.co.kr/article/20260309500237" target="_blank" rel="noopener">한국농수산식품유통공사, '2026 애너하임 국제식품박람회'서 3200만 달러...</a>
+              <div class="art-desc">[사진=aT] 한국농수산식품유통공사(사장 홍문표, aT)는 지난 4~6일까지 미국 애너하임에서 열린 '2026 애너하임 국제식품박람회(NPEW)'에 참가해 총 270건, 3200만 달러의 수출상담 성과를 기록했다고 9일 밝혔다. 올해로... ...</div>
+              <div class="art-meta">
+                <span>📰 news2day.co.kr</span>
+                <span>🕐 03/09 18:54</span>
+                <span class="art-link">→ 원문 보기</span>
+              </div>
+            </div>
+            <div class="art-item ">
+              <div class="art-header">
+                <span class="art-num">08</span>
+                <span class="kw-tag">한식진흥원</span>
+              </div>
+              <a class="art-title" href="https://cooknchefnews.com/news/view/1065593162020293" target="_blank" rel="noopener">한식진흥원, 한식문화공간 이음 제4기 도슨트 전시해설 프로그램 개시</a>
+              <div class="art-desc">한식진흥원(이사장 이규민)이 농림축산식품부(장관 송미령)와 함께 한식문화공간 이음에서 제4기 도슨트 전시해설 프로그램을 운영한다. 2022년 개관 이후 방문객이 꾸준히 증가하는 한식문화공간 이음은, 이번 도슨트... ...</div>
+              <div class="art-meta">
+                <span>📰 cooknchefnews.com</span>
+                <span>🕐 03/09 17:22</span>
+                <span class="art-link">→ 원문 보기</span>
+              </div>
+            </div>
+            <div class="art-item ">
+              <div class="art-header">
+                <span class="art-num">09</span>
+                <span class="kw-tag">한식진흥원</span>
+              </div>
+              <a class="art-title" href="http://www.bokuennews.com/news/article.html?no=274818" target="_blank" rel="noopener">한식진흥원, 제4기 토슨트 전시해설 프로그램 운영</a>
+              <div class="art-desc">한식진흥원(이사장 이규민)은 지난 2월 26일 '제4기 도슨트 임명장 수여식'을 개최하고, 2026년 한식문화공간 이음 전시 해설 프로그램을 담당할 도슨트 25명을 공식 임명했다 한식진흥원(이사장 이규민)은 지난 2월 26일... ...</div>
+              <div class="art-meta">
+                <span>📰 bokuennews.com</span>
+                <span>🕐 03/09 11:28</span>
+                <span class="art-link">→ 원문 보기</span>
+              </div>
+            </div>
+            <div class="art-item ">
+              <div class="art-header">
+                <span class="art-num">10</span>
+                <span class="kw-tag">한식진흥원</span>
+              </div>
+              <a class="art-title" href="https://www.dailian.co.kr/news/view/1618309/?sc=Naver" target="_blank" rel="noopener">한식진흥원, 외국어 도슨트 보강…한식문화공간 이음 해설 확대</a>
+              <div class="art-desc">한식진흥원은 지난달 26일 ‘제4기 도슨트 임명장 수여식’을 열고 올해 한식문화공간 이음 전시 해설 프로그램을 맡을 도슨트 25명을 공식 임명했다고 밝혔다. 개관 4년 차를 맞은 한식문화공간 이음은 늘어나는 방문객... ...</div>
+              <div class="art-meta">
+                <span>📰 dailian.co.kr</span>
+                <span>🕐 03/09 10:36</span>
+                <span class="art-link">→ 원문 보기</span>
+              </div>
+            </div>
+            <div class="art-item ">
+              <div class="art-header">
+                <span class="art-num">11</span>
+                <span class="kw-tag">한식진흥원</span>
+              </div>
+              <a class="art-title" href="https://www.livesnews.com/news/article.html?no=60042" target="_blank" rel="noopener">한식진흥원, 2026년 전시 해설 맡을 도슨트 25명 임명</a>
+              <div class="art-desc">한식문화공간 이음 전시해설 프로그램 운영 체계화 및 외국어 도슨트 선발 한식진흥원(이사장 이규민)은 2월 26일 ‘제4기 도슨트 임명장 수여식’을 열고 2026년 한식문화공간 이음 전시 해설 프로그램을 담당할 도슨트... ...</div>
+              <div class="art-meta">
+                <span>📰 livesnews.com</span>
+                <span>🕐 03/09 10:12</span>
+                <span class="art-link">→ 원문 보기</span>
+              </div>
+            </div>
+            <div class="art-item ">
+              <div class="art-header">
+                <span class="art-num">12</span>
+                <span class="kw-tag">aT센터</span>
+              </div>
+              <a class="art-title" href="https://www.koreadaily.com/article/20260306001053397" target="_blank" rel="noopener">aT센터, 남가주서 K농식품</a>
+              <div class="art-desc">홍보 한국 농림축산식품부와 농수산식품유통공사(aT) LA지사(지사장 백유태)가 애너하임 컨벤션센터에서 오늘(6일)까지 3일간 열리는 ‘2026 내추럴 프로덕트 엑스포 웨스트(NPEW 2026)'에 참가했다. 전 세계 약... ...</div>
+              <div class="art-meta">
+                <span>📰 koreadaily.com</span>
+                <span>🕐 03/06 17:12</span>
+                <span class="art-link">→ 원문 보기</span>
+              </div>
+            </div>
+            <div class="art-item ">
+              <div class="art-header">
+                <span class="art-num">13</span>
+                <span class="kw-tag">한국식품안전관리인증원</span>
+              </div>
+              <a class="art-title" href="https://www.fntoday.co.kr/news/articleView.html?idxno=379124" target="_blank" rel="noopener">한국식품안전관리인증원 해썹(HACCP)체험관, 온라인 사전 신청으로 더 쉽...</a>
+              <div class="art-desc">해썹(HACCP) 체험관 구성 / 한국식품안전관리인증원 제공 한국식품안전관리인증원(원장 한상배, 해썹인증원)은 해썹 체험관 방문 편의성을 높이고 원활한 관람을 지원하기 위해 온라인 사전 방문 신청 서비스를 운영한다고... ...</div>
+              <div class="art-meta">
+                <span>📰 fntoday.co.kr</span>
+                <span>🕐 03/06 15:28</span>
+                <span class="art-link">→ 원문 보기</span>
+              </div>
+            </div>
+            <div class="art-item ">
+              <div class="art-header">
+                <span class="art-num">14</span>
+                <span class="kw-tag">한국식품안전관리인증원</span>
+              </div>
+              <a class="art-title" href="http://www.iminju.net/news/articleView.html?idxno=159815" target="_blank" rel="noopener">한국식품안전관리인증원, 해썹 체험관 온라인 사전 신청 서비스 운영</a>
+              <div class="art-desc">민주신문=김혜인 기자｜한국식품안전관리인증원은 해썹 체험관 온라인 사전 방문 신청 서비스를 운영한다고 6일 밝혔다. 해썹 체험관은 식품·축산물 안전관리 체계인 해썹을 체험형으로 교육하는 공간이다. 학생, 일반인... ...</div>
+              <div class="art-meta">
+                <span>📰 iminju.net</span>
+                <span>🕐 03/06 11:12</span>
+                <span class="art-link">→ 원문 보기</span>
+              </div>
+            </div>
+            <div class="art-item ">
+              <div class="art-header">
+                <span class="art-num">15</span>
+                <span class="kw-tag">한국식품안전관리인증원</span>
+              </div>
+              <a class="art-title" href="https://www.kenews.co.kr/news/article.html?no=88989" target="_blank" rel="noopener">한국식품안전관리인증원, ‘공주 신청사’ 착공식 가져</a>
+              <div class="art-desc">28년 해썹인증원 ‘공주 신청사’ 시대 준비 차곡차곡 - 한상배 원장 “공주 신청사는 해썹인증원의 역량을 한 단계 끌어올리는 핵심 거점이 될 것” 2028년 공주 이전을 목표로 하는 한국식품안전관리인증원(원장 한상배... ...</div>
+              <div class="art-meta">
+                <span>📰 kenews.co.kr</span>
+                <span>🕐 03/06 09:26</span>
+                <span class="art-link">→ 원문 보기</span>
+              </div>
+            </div></div>
+        </div>
+        <div class="pg-single-info">총 15건</div>
+      </div>
+</div>
+
+<footer class="footer">
+  수집 출처: 네이버 뉴스 검색 API<br/>
+  제목·요약·링크만 수집 · 본문 저장·재배포 없음 · 자동 생성: 2026-03-10 11:42:25
+</footer>
+
+<script>
+// ── 페이지네이션 ──
+const pgState = {};
+
+function getPgCurrent(catId) {
+  return pgState[catId] !== undefined ? pgState[catId] : 0;
+}
+
+function goPage(catId, page) {
+  const pages = document.querySelectorAll(`.page-content[data-cat="${catId}"]`);
+  if (!pages.length) return;
+  const total = pages.length;
+  if (page < 0 || page >= total) return;
+
+  pages.forEach(p => p.style.display = 'none');
+  pages[page].style.display = 'block';
+  pgState[catId] = page;
+
+  // 버튼 활성화
+  for (let i = 0; i < total; i++) {
+    const btn = document.getElementById(`pgbtn-${catId}-${i}`);
+    if (btn) btn.className = 'pg-btn' + (i === page ? ' pg-active' : '');
+  }
+
+  // 페이지 정보 업데이트
+  const info = document.getElementById(`pginfo-${catId}`);
+  if (info) {
+    const totalArts = document.querySelectorAll(`.page-content[data-cat="${catId}"] .art-item`).length;
+    info.textContent = `${page + 1} / ${total} 페이지 · 총 ${totalArts}건`;
+  }
+}
+
+// 초기 첫 페이지 표시
+document.querySelectorAll('.page-content[data-page="0"]').forEach(p => p.style.display = 'block');
+
+// ── 카운트다운 타이머 ──
+const INTERVAL = 900;
+let remaining = INTERVAL;
+
+function tick() {
+  const m  = String(Math.floor(remaining / 60)).padStart(2, '0');
+  const s  = String(remaining % 60).padStart(2, '0');
+  document.getElementById('cd-min').textContent = m;
+  document.getElementById('cd-sec').textContent = s;
+
+  // 진행 바 (100% → 0%)
+  const pct = (remaining / INTERVAL) * 100;
+  document.getElementById('progress-bar').style.width = pct + '%';
+
+  // 0이 되면 리셋 (실제 수집은 Python이 하므로 여기선 표시만)
+  if (remaining <= 0) {
+    remaining = INTERVAL;
+  } else {
+    remaining--;
+  }
+}
+
+tick();
+setInterval(tick, 1000);
+</script>
+</body>
+</html>
