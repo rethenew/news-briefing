@@ -12,17 +12,6 @@
       ]
     },
     {
-      "title": "김덕호 식품진흥원 이사장 “특화된 AI 적용 모델 구체화, 국가식품클러...",
-      "link": "https://www.sportsseoul.com/news/read/1593229?ref=naver",
-      "description": "식품진흥원, ‘피지컬 AI 데이터 취득 기술 세미나’ 개최 모션 캡쳐 기반 AI 학습데이터 확보 방안 공유…식품 제조공정 디지털 전환 논의 한국방송통신전파진흥원 손세일 박사가 세미나에서 학습데이터 취득 관련... ...",
-      "pub_date": "Thu, 12 Mar 2026 14:00:00 +0900",
-      "source": "sportsseoul.com",
-      "category": "식품진흥원 & 국가식품클러스터",
-      "keywords_matched": [
-        "식품진흥원"
-      ]
-    },
-    {
       "title": "기업은 오는데 시스템 없는 전북 '투자청'이 답이다",
       "link": "http://www.jjn.co.kr/news/articleView.html?idxno=1034785",
       "description": "전북특별자치도는 새만금, 국가식품클러스터, 탄소소재·이차전지 특화단지 등 물리적 인프라를 빠르게 갖춰가고 있다. 그러나 어느 산업을 어떤 순서로, 어떤 글로벌 기업과 연결해 키울지에 대한 종합 전략은 아직... ...",
@@ -182,6 +171,17 @@
       "description": "농생명 분야에서는 국가식품클러스터 확대와 종자 산업 육성을 통해 전북을 K-푸드 산업의 중심지로 키우겠다는 계획이다. 이 같은 국가 차원의 구상에 민간 투자도 힘을 보탰다. 현대자동차그룹이 새만금 지역에 수소... ...",
       "pub_date": "Thu, 12 Mar 2026 14:40:00 +0900",
       "source": "thefairnews.co.kr",
+      "category": "식품진흥원 & 국가식품클러스터",
+      "keywords_matched": [
+        "국가식품클러스터"
+      ]
+    },
+    {
+      "title": "김덕호 식품진흥원 이사장 “특화된 AI 적용 모델 구체화, 국가식품클러...",
+      "link": "https://www.sportsseoul.com/news/read/1593229?ref=naver",
+      "description": "구체화하고, 국가식품클러스터의 디지털 전환을 본격화하겠다”고 밝혔다. 식품진흥원은 앞으로도 AI 학습데이터 확보 체계 구축, 실증 기반 확대, 전문기관과의 협력 강화 등을 지속 추진하여 식품산업의 스마트 제조... ...",
+      "pub_date": "Thu, 12 Mar 2026 14:00:00 +0900",
+      "source": "sportsseoul.com",
       "category": "식품진흥원 & 국가식품클러스터",
       "keywords_matched": [
         "국가식품클러스터"
@@ -633,6 +633,17 @@
       ]
     },
     {
+      "title": "발언하는 송미령 농림축산식품부 장관",
+      "link": "https://www.yna.co.kr/view/PYH20260312216200013?input=1196m",
+      "description": "송미령 농림축산식품부 장관이 12일 서울 종로구 정부서울청사에서 열린 민생물가 특별관리 관계장관 TF에서 발언하고 있다. 2026.3.12...",
+      "pub_date": "Thu, 12 Mar 2026 20:09:00 +0900",
+      "source": "yna.co.kr",
+      "category": "관계기관 주요 동향",
+      "keywords_matched": [
+        "농림축산식품부"
+      ]
+    },
+    {
       "title": "농림축산식품부, 농업·농촌 인공지능 대전환 전략 수립",
       "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=632435",
       "description": "농림축산식품부는 관계부처 합동으로 수립한 '농업·농촌 인공지능 대전환(AX) 전략'을 발표했다고 12일 밝혔다. 이번 전략은 농업과 농촌에 인공지능(AI)을 접목, 보다 경쟁력 있는 농산업 생태계를 조성하고, 농촌... ...",
@@ -644,21 +655,32 @@
       ]
     },
     {
-      "title": "농촌진흥청, 3월 한 달간 공무직 노동자 소통·공감 교육 진행",
-      "link": "http://sjbnews.com/news/news.php?number=873654",
-      "description": "농촌진흥청은 소속 연구기관 공무직 노동자 500여 명을 대상으로 이달 5일 시작한 ‘공무직 노동자 소통-공감 교육’을 26일까지 총 5회에 걸쳐 진행한다고 밝혔다. 이번 교육은 조직 활력 제고와 협력적 직장 문화를... ...",
-      "pub_date": "Thu, 12 Mar 2026 19:15:00 +0900",
-      "source": "sjbnews.com",
+      "title": "농촌진흥청, ‘데이터 기반 맞춤형 건강 식단 활성화’ 현장 소통 강화",
+      "link": "https://www.newsam.co.kr/news/article.html?no=42320",
+      "description": "김병석 국립식량과학원장, 12일 맞춤형 식품 제조 현장 방문 국가표준식품성분 데이터베이스(DB) 활용 맞춤형 식품 발전 방안 협의 농촌진흥청(청장 이승돈) 국립식량과학원 김병석 원장은 3월 12일 충북 음성에 있는... ...",
+      "pub_date": "Thu, 12 Mar 2026 20:34:00 +0900",
+      "source": "newsam.co.kr",
       "category": "관계기관 주요 동향",
       "keywords_matched": [
         "농촌진흥청"
       ]
     },
     {
-      "title": "농촌진흥청, 도축 자동화 기술 협력 연구 현장 점검",
-      "link": "http://sjbnews.com/news/news.php?number=873608",
-      "description": "농촌진흥청 국립축산과학원 조용민 원장은 12일 경기도 오산시에 있는 자동화 로봇 전문기업 ㈜로보스를 방문, 도축 공정 자동화 기술 협력 연구 현황을 점검했다. 이번 방문에서 조 원장은 2025년부터 국립축산과학원과... ...",
-      "pub_date": "Thu, 12 Mar 2026 19:14:00 +0900",
+      "title": "농촌진흥청, ‘온실 무인 농작업 로봇 보급 확대’ 현장 점검",
+      "link": "https://www.newsam.co.kr/news/article.html?no=42319",
+      "description": "성제훈 국립농업과학원장, 12일 익산 시설재배 농가·관련 산업체 방문 방제·운반 등 농작업 로봇 운용 상황 점검, 의견 청취 온실 농업로봇 개발, 현장 보급 적극 추진할 것 농촌진흥청(청장 이승돈) 국립농업과학원은... ...",
+      "pub_date": "Thu, 12 Mar 2026 20:22:00 +0900",
+      "source": "newsam.co.kr",
+      "category": "관계기관 주요 동향",
+      "keywords_matched": [
+        "농촌진흥청"
+      ]
+    },
+    {
+      "title": "농촌진흥청, 3월 한 달간 공무직 노동자 소통·공감 교육 진행",
+      "link": "http://sjbnews.com/news/news.php?number=873654",
+      "description": "농촌진흥청은 소속 연구기관 공무직 노동자 500여 명을 대상으로 이달 5일 시작한 ‘공무직 노동자 소통-공감 교육’을 26일까지 총 5회에 걸쳐 진행한다고 밝혔다. 이번 교육은 조직 활력 제고와 협력적 직장 문화를... ...",
+      "pub_date": "Thu, 12 Mar 2026 19:15:00 +0900",
       "source": "sjbnews.com",
       "category": "관계기관 주요 동향",
       "keywords_matched": [
@@ -677,11 +699,11 @@
       ]
     },
     {
-      "title": "농촌진흥청, '온실 무인 농작업 로봇 보급 확대' 현장 점검...농업로봇 ...",
-      "link": "https://www.aitimes.kr/news/articleView.html?idxno=39033",
-      "description": "농촌진흥청 성제훈 국립농업과학원장은 12일 방제·운반 로봇을 시범 운영 중인 익산의 토마토 시설재배 농가를 방문해 로봇 운용 실태를 점검하고, 로봇 도입에 따른 편의성과 개선이 필요한 사항 등 현장의 의견을... ...",
-      "pub_date": "Thu, 12 Mar 2026 18:30:00 +0900",
-      "source": "aitimes.kr",
+      "title": "농촌진흥청, 도축 자동화 기술 협력 연구 현장 점검",
+      "link": "http://sjbnews.com/news/news.php?number=873608",
+      "description": "농촌진흥청 국립축산과학원 조용민 원장은 12일 경기도 오산시에 있는 자동화 로봇 전문기업 ㈜로보스를 방문, 도축 공정 자동화 기술 협력 연구 현황을 점검했다. 이번 방문에서 조 원장은 2025년부터 국립축산과학원과... ...",
+      "pub_date": "Thu, 12 Mar 2026 19:14:00 +0900",
+      "source": "sjbnews.com",
       "category": "관계기관 주요 동향",
       "keywords_matched": [
         "농촌진흥청"
