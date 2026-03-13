@@ -408,22 +408,22 @@
       ]
     },
     {
-      "title": "프롬바이오, 美 FDA NDI 인증 지원사업 선정… K-건기식 글로벌 진출 가...",
-      "link": "https://www.biotimes.co.kr/news/articleView.html?idxno=30375",
-      "description": "프롬바이오는 농림축산식품부 산하 한국식품산업클러스터진흥원이 주관하는 '2026년도 식품기업 해외인증 지원 사업' 대상 기업으로 최종 선정됐다고 13일 밝혔다. 회사는 이번 사업을 통해 자체 개발한 기능성 원료... ...",
+      "title": "프롬바이오, 정부 지원 사업 선정…FDA NDI 인증 추진",
+      "link": "http://www.newstown.co.kr/news/articleView.html?idxno=696866",
+      "description": "프롬바이오가 농림축산식품부 산하 한국식품산업클러스터진흥원이 추진하는 '2026년도 식품기업 해외인증 지원 사업' 대상 기업으로 선정돼 미국 식품의약국(FDA) NDI 인증 획득을 추진한다. 회사는 자체 개발 원료인... ...",
       "pub_date": "Fri, 13 Mar 2026 09:40:00 +0900",
-      "source": "biotimes.co.kr",
+      "source": "newstown.co.kr",
       "category": "식품진흥원 & 국가식품클러스터",
       "keywords_matched": [
         "한국식품산업클러스터진흥원"
       ]
     },
     {
-      "title": "프롬바이오, 정부 지원 사업 선정…FDA NDI 인증 추진",
-      "link": "http://www.newstown.co.kr/news/articleView.html?idxno=696866",
-      "description": "프롬바이오가 농림축산식품부 산하 한국식품산업클러스터진흥원이 추진하는 '2026년도 식품기업 해외인증 지원 사업' 대상 기업으로 선정돼 미국 식품의약국(FDA) NDI 인증 획득을 추진한다. 회사는 자체 개발 원료인... ...",
+      "title": "프롬바이오, 美 FDA NDI 인증 지원사업 선정… K-건기식 글로벌 진출 가...",
+      "link": "https://www.biotimes.co.kr/news/articleView.html?idxno=30375",
+      "description": "프롬바이오는 농림축산식품부 산하 한국식품산업클러스터진흥원이 주관하는 '2026년도 식품기업 해외인증 지원 사업' 대상 기업으로 최종 선정됐다고 13일 밝혔다. 회사는 이번 사업을 통해 자체 개발한 기능성 원료... ...",
       "pub_date": "Fri, 13 Mar 2026 09:40:00 +0900",
-      "source": "newstown.co.kr",
+      "source": "biotimes.co.kr",
       "category": "식품진흥원 & 국가식품클러스터",
       "keywords_matched": [
         "한국식품산업클러스터진흥원"
@@ -540,7 +540,19 @@
       ]
     }
   ],
-  "식품산업": [],
+  "식품산업": [
+    {
+      "title": "김종구 차관 \"농식품 수출 비관세장벽 적극 대응\"",
+      "link": "https://www.agrinet.co.kr/news/articleView.html?idxno=402575",
+      "description": "김종구 농림축산식품부 차관이 농식품 수출 과정에서 발생하는 비관세장벽 대응 강화를 위해 수출업계와 현장 의견을 공유했다. 김 차관은 지난 12일 충남 부여 한국인삼공사 공장에서 수출 관련 협회·단체, 유관기관... ...",
+      "pub_date": "Fri, 13 Mar 2026 18:30:00 +0900",
+      "source": "agrinet.co.kr",
+      "category": "식품산업",
+      "keywords_matched": [
+        "식품 수출"
+      ]
+    }
+  ],
   "입주기업": [],
   "관계기관 주요 동향": [
     {
@@ -643,6 +655,17 @@
       ]
     },
     {
+      "title": "[동정] 송미령 농림축산식품부 장관",
+      "link": "http://www.aflnews.co.kr/news/articleView.html?idxno=316463",
+      "description": "13일 세종컨벤션센터 대연회실에서 '2025년 신지식농업인 장(章)' 수여식을 갖고 수상자와 관계자들을 격려했다....",
+      "pub_date": "Fri, 13 Mar 2026 19:06:00 +0900",
+      "source": "aflnews.co.kr",
+      "category": "관계기관 주요 동향",
+      "keywords_matched": [
+        "농림축산식품부"
+      ]
+    },
+    {
       "title": "농림축산식품부, KGC인삼공사에서 현장 간담회 개최",
       "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=4019800",
       "description": "이번 간담회는 김종구 농림축산식품부 차관을 비롯한 농식품부 유관기관, 관련 업계 대표와 KGC인삼공사 임직원이 참석한 가운데 진행됐다. 간담회에서는 농식품 수출 시장 확대를 위한 비관세 장벽 대응 계획을... ...",
@@ -665,22 +688,11 @@
       ]
     },
     {
-      "title": "농림축산식품부, KGC인삼공사서 현장 간담회 열어",
-      "link": "https://weekly.cnbnews.com/news/article.html?no=208607",
-      "description": "▲ KGC인삼공사,농림축산식품부,홍삼,브라질,K-푸드 지난 12일 농림축산식품부 김종구 차관(앞줄 왼쪽 네 번째)을 비롯한 참석자들이 KGC인삼공사 부여공장에서 간담회를 진행했다. 사진=KGC인삼공사 KGC인삼공사가 지난... ...",
-      "pub_date": "Fri, 13 Mar 2026 16:28:00 +0900",
-      "source": "weekly.cnbnews.com",
-      "category": "관계기관 주요 동향",
-      "keywords_matched": [
-        "농림축산식품부"
-      ]
-    },
-    {
-      "title": "(인사)식품의약품안전처",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1294242&inflow=N",
-      "description": "뉴스토마토 = 동지훈 기자 | ◇국장급 △의약품안전국장 신준수 △바이오생약국장 안영진 △의료기기안전국장 김명호 △서울지방식품의약품안전청장 김상봉 △경인지방식품의약품안전청장 이납희 ◇과장급 △대변인... ...",
-      "pub_date": "Fri, 13 Mar 2026 18:04:00 +0900",
-      "source": "newstomato.com",
+      "title": "[인사] 식품의약품안전처",
+      "link": "http://www.aflnews.co.kr/news/articleView.html?idxno=316457",
+      "description": "◆식품의약품안전처 △의약품안전국장 신준수 △바이오생약국장 안영진 △의료기기안전국장 김명호 △서울지방식품의약품안전청장 김상봉 △경인지방식품의약품안전청장 이남희 <과장급> △대변인 현진우... ...",
+      "pub_date": "Fri, 13 Mar 2026 19:06:00 +0900",
+      "source": "aflnews.co.kr",
       "category": "관계기관 주요 동향",
       "keywords_matched": [
         "식품의약품안전처"
@@ -692,17 +704,6 @@
       "description": "■ 산업통상부 ◇ 과장급 전보 ▷ 석유산업과장 양정화 ▷ 투자유치과장 김정예 ■ 식품의약품안전처 ◇ 국장급 ▷ 의약품안전국장 신준수 ▷ 바이오생약국장 안영진 ▷ 의료기기안전국장 김명호... ...",
       "pub_date": "Fri, 13 Mar 2026 17:22:00 +0900",
       "source": "news2day.co.kr",
-      "category": "관계기관 주요 동향",
-      "keywords_matched": [
-        "식품의약품안전처"
-      ]
-    },
-    {
-      "title": "식품의약품안전처 국·과장급 인사발령",
-      "link": "https://www.apsk.co.kr/news/articleView.html?idxno=538858",
-      "description": "발령날짜 : 2026.3.16.자 □ 국장급 ▲의약품안전국장(전, 바이오생약국장) 일반직고위공무원 신 준 수 ▲바이오생약국장(전, 서울지방식품의약품안전청장) 일반직고위공무원 안 영 진 ▲의료기기안전국장(전... ...",
-      "pub_date": "Fri, 13 Mar 2026 14:58:00 +0900",
-      "source": "apsk.co.kr",
       "category": "관계기관 주요 동향",
       "keywords_matched": [
         "식품의약품안전처"
@@ -731,28 +732,6 @@
       ]
     },
     {
-      "title": "농촌진흥청, ‘데이터 기반 맞춤형 건강 식단 활성화’ 현장 소통 강화",
-      "link": "https://www.newsam.co.kr/news/article.html?no=42320",
-      "description": "김병석 국립식량과학원장, 12일 맞춤형 식품 제조 현장 방문 국가표준식품성분 데이터베이스(DB) 활용 맞춤형 식품 발전 방안 협의 농촌진흥청(청장 이승돈) 국립식량과학원 김병석 원장은 3월 12일 충북 음성에 있는... ...",
-      "pub_date": "Thu, 12 Mar 2026 20:34:00 +0900",
-      "source": "newsam.co.kr",
-      "category": "관계기관 주요 동향",
-      "keywords_matched": [
-        "농촌진흥청"
-      ]
-    },
-    {
-      "title": "농촌진흥청, ‘온실 무인 농작업 로봇 보급 확대’ 현장 점검",
-      "link": "https://www.newsam.co.kr/news/article.html?no=42319",
-      "description": "성제훈 국립농업과학원장, 12일 익산 시설재배 농가·관련 산업체 방문 방제·운반 등 농작업 로봇 운용 상황 점검, 의견 청취 온실 농업로봇 개발, 현장 보급 적극 추진할 것 농촌진흥청(청장 이승돈) 국립농업과학원은... ...",
-      "pub_date": "Thu, 12 Mar 2026 20:22:00 +0900",
-      "source": "newsam.co.kr",
-      "category": "관계기관 주요 동향",
-      "keywords_matched": [
-        "농촌진흥청"
-      ]
-    },
-    {
       "title": "한국식품안전관리인증원 해썹(HACCP)체험관, 온라인 사전 신청으로 더 쉽...",
       "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=379124",
       "description": "해썹(HACCP) 체험관 구성 / 한국식품안전관리인증원 제공 한국식품안전관리인증원(원장 한상배, 해썹인증원)은 해썹 체험관 방문 편의성을 높이고 원활한 관람을 지원하기 위해 온라인 사전 방문 신청 서비스를 운영한다고... ...",
@@ -761,6 +740,17 @@
       "category": "관계기관 주요 동향",
       "keywords_matched": [
         "한국식품안전관리인증원"
+      ]
+    },
+    {
+      "title": "농협중앙회장 선거방식, 선거인단제 부상…직선제 요구도",
+      "link": "http://www.aflnews.co.kr/news/articleView.html?idxno=316473",
+      "description": "농협중앙회 본관 전경 농협 개혁의 핵심 과제 중 하나인 중앙회장 선거방식과 관련해 선거인단제가 새로운 대안으로 주목받는 가운데 직선제에 대한 요구도 지속되고 있어 향후 논의 과정에 이목이 집중되고 있다. 농협... ...",
+      "pub_date": "Fri, 13 Mar 2026 18:46:00 +0900",
+      "source": "aflnews.co.kr",
+      "category": "관계기관 주요 동향",
+      "keywords_matched": [
+        "농협중앙회"
       ]
     },
     {
