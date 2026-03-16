@@ -1,6 +1,17 @@
 {
   "식품진흥원 & 국가식품클러스터": [
     {
+      "title": "[6.3 지선 여론조사] 익산시장 선거= 최정호 31%, 조용식 24%",
+      "link": "http://www.jeollailbo.com/news/articleView.html?idxno=794879",
+      "description": "이어 제2혁신도시 공공기관 유치 21%, 국가식품클러스터 2단계 조속 추진 17%, 농생명 바이오산업 육성 및 생태계 강화 9%, 백제 역사·문화 관광 활성화 8%, 만경강 수변도시 조성 및 왕궁 자연환경 복원사업 추진 5%로... ...",
+      "pub_date": "Mon, 16 Mar 2026 20:26:00 +0900",
+      "source": "jeollailbo.com",
+      "category": "식품진흥원 & 국가식품클러스터",
+      "keywords_matched": [
+        "국가식품클러스터"
+      ]
+    },
+    {
       "title": "[기업탐방] 나리찬 문성호 대표 “전 세계인의 밥상에 김치를”",
       "link": "https://www.jjan.kr/article/20260316500442",
       "description": "익산 국가식품클러스터에 위치한 김치 전문기업 ‘나리찬’(대표 문성호)이다. 문성호 대표가 이끄는 나리찬은 김치 생산을 중심으로 다양한 가공식품을 개발하며 빠르게 성장하고 있다. 지난해 연매출은 약 230억 원... ...",
@@ -232,17 +243,6 @@
       ]
     },
     {
-      "title": "전북 산업 '현대차'와 66조 대도약 기대",
-      "link": "https://news.skbroadband.com/news/articleView.html?idxno=220606",
-      "description": "농생명 산업 분야에서는 국가식품클러스터 2단계 추진과 종자산업 혁신클러스터 조성 등 22개 사업이 포함됐습니다. 특히 전북도는 최근 발표된 현대자동차그룹 의 새만금 투자 계획과 연계해 새만금에 'AI 수소시티'를... ...",
-      "pub_date": "Thu, 12 Mar 2026 15:32:00 +0900",
-      "source": "news.skbroadband.com",
-      "category": "식품진흥원 & 국가식품클러스터",
-      "keywords_matched": [
-        "국가식품클러스터"
-      ]
-    },
-    {
       "title": "순천시, 맞춤형 공공기관 유치 추진",
       "link": "https://www.namdonews.com/news/articleView.html?idxno=904068",
       "description": "그린바이오 분야는 ▲농협중앙회 ▲한국식품산업클러스터진흥원 ▲한국어촌어항공단을 유치할 계획이며 치유분야 핵심 공공기관으로는 한국마사회를 유치한다. 이를 위해 시는 마사회가 지녔던 기존 사행성 이미지를... ...",
@@ -364,22 +364,22 @@
       ]
     },
     {
-      "title": "프롬바이오, 정부 지원 사업 선정…FDA NDI 인증 추진",
-      "link": "http://www.newstown.co.kr/news/articleView.html?idxno=696866",
-      "description": "프롬바이오가 농림축산식품부 산하 한국식품산업클러스터진흥원이 추진하는 '2026년도 식품기업 해외인증 지원 사업' 대상 기업으로 선정돼 미국 식품의약국(FDA) NDI 인증 획득을 추진한다. 회사는 자체 개발 원료인... ...",
+      "title": "프롬바이오, 美 FDA NDI 인증 지원사업 선정… K-건기식 글로벌 진출 가...",
+      "link": "https://www.biotimes.co.kr/news/articleView.html?idxno=30375",
+      "description": "프롬바이오는 농림축산식품부 산하 한국식품산업클러스터진흥원이 주관하는 '2026년도 식품기업 해외인증 지원 사업' 대상 기업으로 최종 선정됐다고 13일 밝혔다. 회사는 이번 사업을 통해 자체 개발한 기능성 원료... ...",
       "pub_date": "Fri, 13 Mar 2026 09:40:00 +0900",
-      "source": "newstown.co.kr",
+      "source": "biotimes.co.kr",
       "category": "식품진흥원 & 국가식품클러스터",
       "keywords_matched": [
         "한국식품산업클러스터진흥원"
       ]
     },
     {
-      "title": "프롬바이오, 美 FDA NDI 인증 지원사업 선정… K-건기식 글로벌 진출 가...",
-      "link": "https://www.biotimes.co.kr/news/articleView.html?idxno=30375",
-      "description": "프롬바이오는 농림축산식품부 산하 한국식품산업클러스터진흥원이 주관하는 '2026년도 식품기업 해외인증 지원 사업' 대상 기업으로 최종 선정됐다고 13일 밝혔다. 회사는 이번 사업을 통해 자체 개발한 기능성 원료... ...",
+      "title": "프롬바이오, 정부 지원 사업 선정…FDA NDI 인증 추진",
+      "link": "http://www.newstown.co.kr/news/articleView.html?idxno=696866",
+      "description": "프롬바이오가 농림축산식품부 산하 한국식품산업클러스터진흥원이 추진하는 '2026년도 식품기업 해외인증 지원 사업' 대상 기업으로 선정돼 미국 식품의약국(FDA) NDI 인증 획득을 추진한다. 회사는 자체 개발 원료인... ...",
       "pub_date": "Fri, 13 Mar 2026 09:40:00 +0900",
-      "source": "biotimes.co.kr",
+      "source": "newstown.co.kr",
       "category": "식품진흥원 & 국가식품클러스터",
       "keywords_matched": [
         "한국식품산업클러스터진흥원"
@@ -699,9 +699,9 @@
       ]
     },
     {
-      "title": "농촌진흥청, 수평적 영농승계 모형 보급…농업인 학습단체 간 협약",
-      "link": "http://sjbnews.com/news/news.php?number=873858",
-      "description": "농촌진흥청은 부모 세대로부터 농업을 승계한 청년들의 안정적 정착과 성장을 돕고, 세대 간 상호 존중에 기반한 수평적 승계 모형(모델)을 보급하기 위해 농업인 학습단체 간 협약을 추진했다. 이와 관련... ...",
+      "title": "농촌진흥청, ‘비생산적 일 버리기’ 3대 공약 선언",
+      "link": "http://sjbnews.com/news/news.php?number=873856",
+      "description": "농촌진흥청은 16일 본청 종합연찬관에서 청·차장 등 부장급 이상 간부진이 참석한 가운데 ‘비생산적 일 버리기’ 3대 공약 선언식을 개최하고, 불필요한 관행 폐기와 비효율 절차 개선을 다짐했다. 이날 선언식에서... ...",
       "pub_date": "Mon, 16 Mar 2026 19:21:00 +0900",
       "source": "sjbnews.com",
       "category": "관계기관 주요 동향",
@@ -710,9 +710,9 @@
       ]
     },
     {
-      "title": "농촌진흥청, ‘비생산적 일 버리기’ 3대 공약 선언",
-      "link": "http://sjbnews.com/news/news.php?number=873856",
-      "description": "농촌진흥청은 16일 본청 종합연찬관에서 청·차장 등 부장급 이상 간부진이 참석한 가운데 ‘비생산적 일 버리기’ 3대 공약 선언식을 개최하고, 불필요한 관행 폐기와 비효율 절차 개선을 다짐했다. 이날 선언식에서... ...",
+      "title": "농촌진흥청, 수평적 영농승계 모형 보급…농업인 학습단체 간 협약",
+      "link": "http://sjbnews.com/news/news.php?number=873858",
+      "description": "농촌진흥청은 부모 세대로부터 농업을 승계한 청년들의 안정적 정착과 성장을 돕고, 세대 간 상호 존중에 기반한 수평적 승계 모형(모델)을 보급하기 위해 농업인 학습단체 간 협약을 추진했다. 이와 관련... ...",
       "pub_date": "Mon, 16 Mar 2026 19:21:00 +0900",
       "source": "sjbnews.com",
       "category": "관계기관 주요 동향",
@@ -773,6 +773,17 @@
       "category": "관계기관 주요 동향",
       "keywords_matched": [
         "한국식품안전관리인증원"
+      ]
+    },
+    {
+      "title": "강호동 농협중앙회장 \"억울한 부분 많지만 차분하게 대응\"",
+      "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=632677",
+      "description": "최근 정부합동 특별감사 결과 발표로 취임 이후 최대 위기를 맞고 있는 강호동 농협중앙회 회장이 16일 고향인 합천군을 찾아 농촌 의료지원 사업 '농촌왕진버스' 행사에 참석하며 현장 행보에 나섰다. 강 회장은 이날 합천... ...",
+      "pub_date": "Mon, 16 Mar 2026 20:26:00 +0900",
+      "source": "gnnews.co.kr",
+      "category": "관계기관 주요 동향",
+      "keywords_matched": [
+        "농협중앙회"
       ]
     },
     {
