@@ -1,6 +1,17 @@
 {
   "식품진흥원 & 국가식품클러스터": [
     {
+      "title": "식품진흥원-전파진흥원, 협력 1주년 기념 기관장 간담회",
+      "link": "https://www.nongmin.com/article/20260319500374",
+      "description": "식품진흥원의 제조 인프라와 전파진흥원의 사물인터넷(IoT), 5G 기술력 등을 결합해 ▲식품 제조공정 내 AI 적용 ▲지능형 작업수행 시스템 완성 등이 그것이다. 간담회에선 국가식품클러스터가 디지털 전환을 넘어 AI... ...",
+      "pub_date": "Fri, 20 Mar 2026 09:11:00 +0900",
+      "source": "nongmin.com",
+      "category": "식품진흥원 & 국가식품클러스터",
+      "keywords_matched": [
+        "식품진흥원"
+      ]
+    },
+    {
       "title": "식품진흥원, 식품기업 해외인증 지원 본격화",
       "link": "http://www.amnews.co.kr/news/articleView.html?idxno=71567",
       "description": "식품진흥원은 기업들이 해외시장의 높은 진입 장벽을 넘을 수 있도록 중동·동남아 수출을 위한 해외 특화 인증과 FSSC22000, ISO22000 등 국제 식품안전 인증 취득을 지원하고, 수출국 맞춤형 제품 분석과 식품 표시사항 검토... ...",
@@ -406,17 +417,6 @@
       "keywords_matched": [
         "한국식품산업클러스터진흥원"
       ]
-    },
-    {
-      "title": "식품 제조현장에 피지컬 AI를…식품진흥원, AI 도입 세미나",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026031317513414504",
-      "description": "한국식품산업클러스터진흥원(식품진흥원)은 3월 11일 전북 익산의 식품진흥원 본관에서 ‘피지컬 AI 학습 데이터 취득 기술 세미나’를 개최했다고 13일 밝혔다. 이번 세미나는 식품 제조 현장에서 활용이 가능한 피지컬... ...",
-      "pub_date": "Fri, 13 Mar 2026 17:54:00 +0900",
-      "source": "busan.com",
-      "category": "식품진흥원 & 국가식품클러스터",
-      "keywords_matched": [
-        "한국식품산업클러스터진흥원"
-      ]
     }
   ],
   "식품산업": [
@@ -429,6 +429,17 @@
       "category": "식품산업",
       "keywords_matched": [
         "K-Food"
+      ]
+    },
+    {
+      "title": "﻿멕시카나치킨, 푸드테크와 MOU 체결.. 데이터 기반 경영 체계로 서비...",
+      "link": "https://www.itbiznews.com/news/articleView.html?idxno=207312",
+      "description": "멕시카나가 푸드테크와의 업무협약(MOU)을 체결하고 내점솔루션 확대 및 운영 효율·데이터 기반 관리 강화에 나선다. 멕시카나치킨은 지난 18일 \"푸드테크와 업무협약(MOU)을 체결하고, 기존 레거시 POS를 메이트포스(Mate... ...",
+      "pub_date": "Fri, 20 Mar 2026 09:26:00 +0900",
+      "source": "itbiznews.com",
+      "category": "식품산업",
+      "keywords_matched": [
+        "푸드테크"
       ]
     },
     {
