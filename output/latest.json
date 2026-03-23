@@ -23,17 +23,6 @@
       ]
     },
     {
-      "title": "식품진흥원-전파진흥원, 협력 1주년 기념 기관장 간담회",
-      "link": "https://www.nongmin.com/article/20260319500374",
-      "description": "식품진흥원의 제조 인프라와 전파진흥원의 사물인터넷(IoT), 5G 기술력 등을 결합해 ▲식품 제조공정 내 AI 적용 ▲지능형 작업수행 시스템 완성 등이 그것이다. 간담회에선 국가식품클러스터가 디지털 전환을 넘어 AI... ...",
-      "pub_date": "Fri, 20 Mar 2026 09:11:00 +0900",
-      "source": "nongmin.com",
-      "category": "식품진흥원 & 국가식품클러스터",
-      "keywords_matched": [
-        "식품진흥원"
-      ]
-    },
-    {
       "title": "익산-완주 산단, 토지거래 허가구역 2년 연장",
       "link": "http://sjbnews.com/news/news.php?number=874360",
       "description": "익산 국가식품클러스터 2단계, 완주 수소특화국가산업단지 조성사업 예정지가 각각 토지거래 허가구역으로 2년씩 연장됐다. 전북자치도는 이런 내용의 토지거래 허가구역 연장안을 지난 20일 공고했다. 효력은 오는... ...",
@@ -105,6 +94,17 @@
       "description": "전북특별자치도가 익산 국가식품클러스터 2단계와 완주 수소특화 국가산업단지 후보지를 대상으로 한 토지거래허가구역을 2년 연장 지정하면서, 산업단지 조성 과정의 '속도 조절과 투기 차단'이라는 이중 전략을... ...",
       "pub_date": "Fri, 20 Mar 2026 11:54:00 +0900",
       "source": "newsfreezone.co.kr",
+      "category": "식품진흥원 & 국가식품클러스터",
+      "keywords_matched": [
+        "국가식품클러스터"
+      ]
+    },
+    {
+      "title": "식품진흥원-전파진흥원, 협력 1주년 기념 기관장 간담회",
+      "link": "https://www.nongmin.com/article/20260319500374",
+      "description": "간담회에선 국가식품클러스터가 디지털 전환을 넘어 AI 선도 산업단지로 도약하기 위한 협력 방안이 논의됐다. 김덕호 이사장은 “식품산업은 AI와 디지털 기술을 기반으로 한 대전환의 시기를 맞이했다”며 “올해... ...",
+      "pub_date": "Fri, 20 Mar 2026 09:11:00 +0900",
+      "source": "nongmin.com",
       "category": "식품진흥원 & 국가식품클러스터",
       "keywords_matched": [
         "국가식품클러스터"
@@ -443,6 +443,28 @@
   ],
   "식품산업": [
     {
+      "title": "영산대 K-Food조리전공, '손 없는 날' 맞아 전통 장 담그기 체험 행사",
+      "link": "https://www.smartbizn.com/news/articleView.html?idxno=139918",
+      "description": "| 스마트비즈 = 정선 기자 | 와이즈유 영산대학교는 조리예술학부 K-Food조리전공이 지난 17일 전통 조리법의 정수를 배우는 '2026 전통의 미학: 장 담그기' 행사를 진행했다고 23일 밝혔다. 이번 행사는 한국 음식의 맛과... ...",
+      "pub_date": "Mon, 23 Mar 2026 10:00:00 +0900",
+      "source": "smartbizn.com",
+      "category": "식품산업",
+      "keywords_matched": [
+        "K-Food"
+      ]
+    },
+    {
+      "title": "매일유업, 의료·푸드테크 기업과 손잡고 '메디웰' 강화",
+      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=298185",
+      "description": "매일유업이 의료 및 푸드테크 전문 기업과 손잡고 균형영양식 브랜드 '메디웰'의 전문성 강화를 추진한다. 매일유업은 서울 종로구 본사에서 한림대학교의료원, 슈팹㈜과 환자 및 고령자 맞춤형 영양식 개발을 위한 3자... ...",
+      "pub_date": "Mon, 23 Mar 2026 09:22:00 +0900",
+      "source": "straightnews.co.kr",
+      "category": "식품산업",
+      "keywords_matched": [
+        "푸드테크"
+      ]
+    },
+    {
       "title": "ICC JEJU, 푸드테크 엑스포·제주잇수다 동시 개최",
       "link": "http://www.fnnews.com/news/202603230850246008",
       "description": "제주국제컨벤션센터(ICC JEJU)가 6월 ‘2026 제주 글로벌 푸드테크 엑스포’와 ‘2026 제주잇수다’를 같은 기간 함께 연다. 제주 식품산업의 생산과 가공, 유통, 소비, 미래기술을 한 공간에 모아 산업 플랫폼 기능을... ...",
@@ -462,6 +484,17 @@
       "category": "식품산업",
       "keywords_matched": [
         "푸드테크"
+      ]
+    },
+    {
+      "title": "농촌관광 연계 전통주·한식 육성···농식품 수출 전과정 지원",
+      "link": "https://www.agrinet.co.kr/news/articleView.html?idxno=402531",
+      "description": "#수출 수출전략형 유망제품 발굴 스마트 수출전문단지 구축 신선농산물 '저온유통' 강화 ▲농식품 우수기업 육성=농식품 수출업체에 수출 전과정에 필요한 맞춤형 사업(보험, 인증, 마케팅 등)을 지원하는 사업이다.... ...",
+      "pub_date": "Mon, 23 Mar 2026 09:36:00 +0900",
+      "source": "agrinet.co.kr",
+      "category": "식품산업",
+      "keywords_matched": [
+        "식품 수출"
       ]
     }
   ],
@@ -578,28 +611,6 @@
       ]
     },
     {
-      "title": "[오늘의 주요일정]농림축산식품부(3월23일월요일)",
-      "link": "https://www.newsis.com/view/NISX20260320_0003556464",
-      "description": "▲13:00 이승돈 농촌진흥청장, 주한 스리랑카 대사 접견(전주)...",
-      "pub_date": "Mon, 23 Mar 2026 06:00:00 +0900",
-      "source": "newsis.com",
-      "category": "관계기관 주요 동향",
-      "keywords_matched": [
-        "농림축산식품부"
-      ]
-    },
-    {
-      "title": "[오늘의 주요일정]식품의약품안전처(3월23일 월요일)",
-      "link": "https://www.newsis.com/view/NISX20260320_0003557408",
-      "description": "◇처장 ▲통상일정 ◇차장 ▲통상일정...",
-      "pub_date": "Mon, 23 Mar 2026 05:01:00 +0900",
-      "source": "newsis.com",
-      "category": "관계기관 주요 동향",
-      "keywords_matched": [
-        "식품의약품안전처"
-      ]
-    },
-    {
       "title": "농촌진흥청, 재래가축 산업화 모델 '난축맛돈'",
       "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1518111",
       "description": "농촌진흥청이 제주 재래 흑돼지를 기반으로 개발한 흑돼지 품종 '난축맛돈'을 중심으로 생산부터 유통, 소비까지 연결하는 산업화 체계를 구축하기로 했습니다. 최일 기자입니다. 【기자】 '난축맛돈'은... ...",
@@ -671,17 +682,6 @@
       "description": "한국식품안전관리인증원(원장 한상배)과 (재)한국화학융합시험연구원(원장 김현철)은 3월 18일에 KTR 본원(경기 과천)에서 '할랄식품 인증기관 인정 지원'을 위한 업무협약(MOU)을 체결했다 한국식품안전관리인증원(원장... ...",
       "pub_date": "Thu, 19 Mar 2026 10:24:00 +0900",
       "source": "bokuennews.com",
-      "category": "관계기관 주요 동향",
-      "keywords_matched": [
-        "한국식품안전관리인증원"
-      ]
-    },
-    {
-      "title": "KTR, 한국식품안전관리인증원과 할랄 시험인증 협력…K-푸드 수출 지원",
-      "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=56247",
-      "description": "한국화학융합시험연구원(KTR)이 국내 식품기업의 할랄시장 진출 지원을 강화하기 위해 한국식품안전관리인증원과 손을 잡았다. KTR 김현철 원장은 18일 과천 본원에서 한국식품안전관리인증원 한상배 원장과 할랄... ...",
-      "pub_date": "Wed, 18 Mar 2026 15:42:00 +0900",
-      "source": "newsroad.co.kr",
       "category": "관계기관 주요 동향",
       "keywords_matched": [
         "한국식품안전관리인증원"
