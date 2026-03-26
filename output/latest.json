@@ -1,6 +1,17 @@
 {
   "식품진흥원 & 국가식품클러스터": [
     {
+      "title": "식품진흥원 <2026 푸드테크 비건&그린페스타> 푸드 산업 미래 비전 밝힌...",
+      "link": "https://www.sportsseoul.com/news/read/1597184?ref=naver",
+      "description": "사진|식품진흥원 한국식품산업클러스터진흥원(이사장 김덕호, 이하 식품진흥원)은 오는 3월 27일(금)부터 29일(일)까지 3일간 서울 SETEC에서 열리는 ‘2026 푸드테크 비건페스타 & 그린페스타’에 참가해 K-푸드테크 산업의... ...",
+      "pub_date": "Thu, 26 Mar 2026 09:06:00 +0900",
+      "source": "sportsseoul.com",
+      "category": "식품진흥원 & 국가식품클러스터",
+      "keywords_matched": [
+        "식품진흥원"
+      ]
+    },
+    {
       "title": "전북개발공사, 2026년 ESG경영 본격 추진",
       "link": "http://sjbnews.com/news/news.php?number=874654",
       "description": "완주 수소특화 국가산업단지와 익산 국가식품클러스터 조성사업에 참여하여 지역 산업 경쟁력을 제고하고, 새만금 관광단지 개발을 통해 민간 투자 유치에도 나설 방침이다. 게다가 저출산 및 지방소멸 대응을... ...",
@@ -72,17 +83,6 @@
       "description": "또 그는 국가식품클러스터 활성화를 위한 '푸드테크 대체식품 혁신클러스터 고도화', 식품과 문화가 결합한 '국립익산식품박물관 건립' 등 식품산업 분야 주요 사업도 설명했다. 이어 국토부를 방문해선 지역 숙원인... ...",
       "pub_date": "Tue, 24 Mar 2026 16:20:00 +0900",
       "source": "news1.kr",
-      "category": "식품진흥원 & 국가식품클러스터",
-      "keywords_matched": [
-        "국가식품클러스터"
-      ]
-    },
-    {
-      "title": "임형택 예비후보, \"익산 로컬푸드 요리학교 설립하겠다\"",
-      "link": "http://www.domin.co.kr/news/articleView.html?idxno=1549635",
-      "description": "임 예비후보는 24일 익산시청에서 기자실에서 기자회견을 열고 \"지역의 풍부한 로컬푸드 자원과 국가식품클러스터를 연결하는 전문 요리 교육기관인 '익산 로컬푸드 요리학교(CII: Culinary Institute of Iksan)'을... ...",
-      "pub_date": "Tue, 24 Mar 2026 14:38:00 +0900",
-      "source": "domin.co.kr",
       "category": "식품진흥원 & 국가식품클러스터",
       "keywords_matched": [
         "국가식품클러스터"
@@ -439,17 +439,6 @@
       "keywords_matched": [
         "한국식품산업클러스터진흥원"
       ]
-    },
-    {
-      "title": "경기도주식회사, 식품기업 해외진출 원스톱 지원 협의체 출범",
-      "link": "https://www.g-enews.com/view.php?ud=2026031809261862288fbfc802b3_1",
-      "description": "경기도주식회사가 한국식품산업클러스터진흥원과 전국 권역별 수출지원기관과 함께 중소 식품기업의 해외 진출을 지원하기 위한 협력체를 구성했다. 경기도주식회사는 18일 식품진흥원과 10개 수출지원기관이 참여하는... ...",
-      "pub_date": "Wed, 18 Mar 2026 10:28:00 +0900",
-      "source": "g-enews.com",
-      "category": "식품진흥원 & 국가식품클러스터",
-      "keywords_matched": [
-        "한국식품산업클러스터진흥원"
-      ]
     }
   ],
   "식품산업": [
@@ -462,6 +451,28 @@
       "category": "식품산업",
       "keywords_matched": [
         "K-Food"
+      ]
+    },
+    {
+      "title": "조기 발굴과 밀착 지원으로 농식품 푸드테크 산업 키운다",
+      "link": "https://www.m-economynews.com/news/article.html?no=65802",
+      "description": "한국농식품벤처투자협회와 (재)경기도농수산진흥원이 손을 맞잡고 유망 푸드테크 기업 발굴과 성장 단계별 맞춤형 투자 지원에 나선다. 25일 경기도농수산진흥원 교육관에서 체결된 이번 업무협약은 먹거리 혁신을 이끌... ...",
+      "pub_date": "Thu, 26 Mar 2026 08:54:00 +0900",
+      "source": "m-economynews.com",
+      "category": "식품산업",
+      "keywords_matched": [
+        "푸드테크"
+      ]
+    },
+    {
+      "title": "괴산군, 친환경 푸드테크로 지역 소멸 위기 돌파",
+      "link": "https://www.viva100.com/article/20260325501552",
+      "description": "이 사업은 괴산의 친환경 로컬식품과 푸드테크 산업을 육성하여 지역 경제를 활성화하고 인구 유입을 촉진하는 것을 목표로 한다. 충북테크노파크 박순기 원장은 중소벤처기업부, 충청북도, 괴산군이 추진하는... ...",
+      "pub_date": "Thu, 26 Mar 2026 08:28:00 +0900",
+      "source": "viva100.com",
+      "category": "식품산업",
+      "keywords_matched": [
+        "푸드테크"
       ]
     },
     {
@@ -547,28 +558,6 @@
       "description": "제주특별자치도는 지난 24일 2026년 제1차 푸드테크(Food-Tech) 산업 발전위원회를 열고 올해 시행계획을 확정해 4대 핵심 전략, 16개 실행 과제, 59개 세부 사업에 총 600억6000만 원을 투입한다고 25일 밝혔다. 시행계획에... ...",
       "pub_date": "Wed, 25 Mar 2026 16:12:00 +0900",
       "source": "samdailbo.com",
-      "category": "식품산업",
-      "keywords_matched": [
-        "푸드테크"
-      ]
-    },
-    {
-      "title": "충북TP, 괴산군과 '푸드테크 산업 육성' 사업설명회 개최",
-      "link": "https://www.todayenergy.kr/news/articleView.html?idxno=295686",
-      "description": "이번 사업은 괴산의 주력 산업인 친환경 로컬식품과 첨단 푸드테크 기술을 결합해 중소기업의 고부가가치화를 실현하는 것을 목표로 한다. 중원대학교에서 열린 이번 설명회는 충북테크노파크를 비롯해 중원대학교... ...",
-      "pub_date": "Wed, 25 Mar 2026 15:52:00 +0900",
-      "source": "todayenergy.kr",
-      "category": "식품산업",
-      "keywords_matched": [
-        "푸드테크"
-      ]
-    },
-    {
-      "title": "충북TP, 친환경 로컬식품 푸드테크 기업 본격 지원",
-      "link": "https://www.energy-news.co.kr/news/articleView.html?idxno=224013",
-      "description": "(재)충북테크노파크(원장 박순기)는 2026년 시군구연고산업육성사업으로 선정된 '괴산 친환경 로컬식품의 고부가가치화를 위한 푸드테크산업 육성사업' 설명회를 25일 중원대학교에서 개최했다고 밝혔다. 이번 설명회는... ...",
-      "pub_date": "Wed, 25 Mar 2026 15:22:00 +0900",
-      "source": "energy-news.co.kr",
       "category": "식품산업",
       "keywords_matched": [
         "푸드테크"
@@ -688,9 +677,9 @@
       ]
     },
     {
-      "title": "농촌진흥청, 익산 그린바이오 벤처캠퍼스 입주기업 간담회 개최",
-      "link": "http://www.domin.co.kr/news/articleView.html?idxno=1549883",
-      "description": "농촌진흥청(청장 이승돈) 국립축산과학원(원장 조용민)은 익산 그린바이오 벤처캠퍼스에서 축산분야 입주기업들과 간담회를 개최했다 농촌진흥청(청장 이승돈) 국립축산과학원(원장 조용민)은 익산 그린바이오... ...",
+      "title": "농촌진흥청, 꿀벌 월동 환경 유지 기술 2종 개발",
+      "link": "http://www.domin.co.kr/news/articleView.html?idxno=1549882",
+      "description": "농촌진흥청(청장 이승돈)은 꿀벌 월동 환경 유지 기술 2종을 개발했다고 25일 밝혔다. 농촌진흥청(청장 이승돈)은 꿀벌 월동 환경 유지 기술 2종을 개발했다고 25일 밝혔다. 최근 겨울철 이상고온과 한파가 반복되면서... ...",
       "pub_date": "Wed, 25 Mar 2026 18:28:00 +0900",
       "source": "domin.co.kr",
       "category": "관계기관 주요 동향",
@@ -699,9 +688,9 @@
       ]
     },
     {
-      "title": "농촌진흥청, 꿀벌 월동 환경 유지 기술 2종 개발",
-      "link": "http://www.domin.co.kr/news/articleView.html?idxno=1549882",
-      "description": "농촌진흥청(청장 이승돈)은 꿀벌 월동 환경 유지 기술 2종을 개발했다고 25일 밝혔다. 농촌진흥청(청장 이승돈)은 꿀벌 월동 환경 유지 기술 2종을 개발했다고 25일 밝혔다. 최근 겨울철 이상고온과 한파가 반복되면서... ...",
+      "title": "농촌진흥청, 익산 그린바이오 벤처캠퍼스 입주기업 간담회 개최",
+      "link": "http://www.domin.co.kr/news/articleView.html?idxno=1549883",
+      "description": "농촌진흥청(청장 이승돈) 국립축산과학원(원장 조용민)은 익산 그린바이오 벤처캠퍼스에서 축산분야 입주기업들과 간담회를 개최했다 농촌진흥청(청장 이승돈) 국립축산과학원(원장 조용민)은 익산 그린바이오... ...",
       "pub_date": "Wed, 25 Mar 2026 18:28:00 +0900",
       "source": "domin.co.kr",
       "category": "관계기관 주요 동향",
@@ -773,6 +762,17 @@
       "category": "관계기관 주요 동향",
       "keywords_matched": [
         "한국식품안전관리인증원"
+      ]
+    },
+    {
+      "title": "농협중앙회장도 '승용차 5부제' 동참",
+      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5004928",
+      "description": "농협중앙회가 '승용차 5부제(요일제)'를 시행했다. 이에 따라 농협중앙회장을 비롯한 전 임직원이 에너지 절약에 동참한다. 26일 농협중앙회에 따르면, 강호동 중앙회장을 비롯한 전 임직원은 전날인 25일부터 정부의... ...",
+      "pub_date": "Thu, 26 Mar 2026 08:30:00 +0900",
+      "source": "shinailbo.co.kr",
+      "category": "관계기관 주요 동향",
+      "keywords_matched": [
+        "농협중앙회"
       ]
     },
     {
