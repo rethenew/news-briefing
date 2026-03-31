@@ -45,17 +45,6 @@
       ]
     },
     {
-      "title": "한국식품진흥원, 중동발 포장재 수급 위기 대응...‘탈 나프타 포장재’...",
-      "link": "https://www.ekn.kr/web/view.php?key=20260331029062564",
-      "description": "이에 식품진흥원은 나프타를 사용하지 않는 대체 포장재 정보를 정리한 카드뉴스를 제작해 기업들이 활용할 수 있도록 정보 제공에 나섰다. 해당 카드뉴스에는 종이, 금속, 유리, 가공셀룰로스 등 식품용으로 사용 가능한... ...",
-      "pub_date": "Tue, 31 Mar 2026 08:48:00 +0900",
-      "source": "ekn.kr",
-      "category": "식품진흥원 & 국가식품클러스터",
-      "keywords_matched": [
-        "식품진흥원"
-      ]
-    },
-    {
       "title": "조용식 익산시장 예비후보 \"국가식품클러스터 성과 시민 배당\"",
       "link": "https://www.yna.co.kr/view/AKR20260331136600055?input=1195m",
       "description": "조용식 전북 익산시장 예비후보는 31일 국가식품클러스터의 성과를 시민의 삶으로 환원하는 '국가식품클러스터 시민 배당' 정책을 발표했다. 조 예비후보는 이날 보도자료를 통해 \"국가식품클러스터는 익산의 핵심 산업... ...",
@@ -210,11 +199,11 @@
       ]
     },
     {
-      "title": "과자·라면포장 원료 수급 위기…‘탈나프타 포장재’ 정보 제공",
-      "link": "https://www.mediapen.com/news/view/1090099",
-      "description": "한국식품산업클러스터진흥원은 최근 중동 지역 정세 불안에 따른 나프타(납사) 수급 차질로 어려움을 겪는 식품기업을 지원하기 위해 ‘탈나프타 포장재 정보’를 제공한다고 30일 밝혔다. 식품진흥원 중동 원료 수급난... ...",
-      "pub_date": "Mon, 30 Mar 2026 17:48:00 +0900",
-      "source": "mediapen.com",
+      "title": "한국식품진흥원, 중동발 포장재 수급 위기 대응...‘탈 나프타 포장재’...",
+      "link": "https://www.ekn.kr/web/view.php?key=20260331029062564",
+      "description": "익산=에너지경제신문 홍문수 기자 한국식품산업클러스터진흥원은 최근 중동 지역 정세 불안에 따른 나프타 수급 차질로 어려움을 겪는 식품기업을 지원하기 위해 '탈나프타 포장재 정보'를 제공한다고 30일 밝혔다.... ...",
+      "pub_date": "Tue, 31 Mar 2026 08:48:00 +0900",
+      "source": "ekn.kr",
       "category": "식품진흥원 & 국가식품클러스터",
       "keywords_matched": [
         "한국식품산업클러스터진흥원"
@@ -485,6 +474,17 @@
       "keywords_matched": [
         "푸드테크"
       ]
+    },
+    {
+      "title": "전북, H마트 바이어 초청 상담회…대미 농식품 수출 확대 노린다",
+      "link": "https://www.betanews.net/article/view/beta202603310082",
+      "description": "전북자치도는 30일부터 전북바이오융합산업진흥원에서 미국 H마트 바이어를 초청해 농수산식품 수출상담회와 세미나를 진행했다. H마트는 미국 14개 주에 79개 매장과 5개 물류센터를 보유한 북미 최대 규모 아시안 식품... ...",
+      "pub_date": "Tue, 31 Mar 2026 17:06:00 +0900",
+      "source": "betanews.net",
+      "category": "식품산업",
+      "keywords_matched": [
+        "식품 수출"
+      ]
     }
   ],
   "입주기업": [],
@@ -546,10 +546,21 @@
     },
     {
       "title": "[인사] 농촌진흥청",
-      "link": "https://www.public25.com/news/articleView.html?idxno=42974",
-      "description": "△국립농업과학원 농촌환경안전과장 김상범 △국립식량과학원 기획조정과장 정광호 △국립식량과학원... 옥현충 △농촌지원국 농업인안전과장 김경수 △농촌지원국 식량산업기술팀장 장재기 △국립식량과학원... ...",
-      "pub_date": "Tue, 31 Mar 2026 16:58:00 +0900",
-      "source": "public25.com",
+      "link": "http://www.jeollailbo.com/news/articleView.html?idxno=796318",
+      "description": "◇과장급(직위승진) △국립농업과학원 농촌환경안전과장 김상범 △국립식량과학원 기획조정과장 정광호... 옥현충 △농촌지원국 농업인안전과장 김경수 △농촌지원국 식량산업기술팀장 장재기 △국립식량과학원... ...",
+      "pub_date": "Tue, 31 Mar 2026 17:52:00 +0900",
+      "source": "jeollailbo.com",
+      "category": "관계기관 주요 동향",
+      "keywords_matched": [
+        "농촌진흥청"
+      ]
+    },
+    {
+      "title": "농촌진흥청, ‘초고성능컴퓨터’ 공동 활용 신청 접수",
+      "link": "https://www.kenews.co.kr/news/article.html?no=89135",
+      "description": "- 4월 30일까지...전북 지역 소재 기관, 농업‧생명‧보건 분야 연구 대학, 기업 등 신청 가능 - \"초고성능컴퓨터 공동 활용으로 생명과학 연구 혁신 이끌 것\" 농촌진흥청(청장 이승돈)은 농업‧생명‧보건 분야의... ...",
+      "pub_date": "Tue, 31 Mar 2026 17:06:00 +0900",
+      "source": "kenews.co.kr",
       "category": "관계기관 주요 동향",
       "keywords_matched": [
         "농촌진흥청"
@@ -578,22 +589,22 @@
       ]
     },
     {
-      "title": "한국식품안전관리인증원, 수입식품 생산 단계 부터 철저히...중국 현지...",
-      "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=381169",
-      "description": "2026 수입식품 해썹 관련 현지 교육 / 한국식품안전관리인증원 제공 한국식품안전관리인증원(원장 한상배, 해썹인증원)은 중국 칭다오에 위치한 중국 주재소(이하 주재소)에서 수입식품 해썹 적용 제조업소 영업자와... ...",
-      "pub_date": "Tue, 31 Mar 2026 15:42:00 +0900",
-      "source": "fntoday.co.kr",
+      "title": "한국식품안전관리인증원, 중국 현지 해썹 실무교육 실시",
+      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2413191",
+      "description": "한국식품안전관리인증원(원장 한상배, 해썹인증원)이 중국 칭다오 주재소에서 수입식품 해썹 적용 제조업소 영업자와 인증기관을 대상으로 교육을 실시했다. 이번 교육은 지난 24일과 27일 이틀간 진행됐으며, 수입식품... ...",
+      "pub_date": "Tue, 31 Mar 2026 17:05:00 +0900",
+      "source": "enewstoday.co.kr",
       "category": "관계기관 주요 동향",
       "keywords_matched": [
         "한국식품안전관리인증원"
       ]
     },
     {
-      "title": "한국식품안전관리인증원, 중국서 수입식품 해썹 실무교육 실시",
-      "link": "http://www.iminju.net/news/articleView.html?idxno=161813",
-      "description": "민주신문=김혜인 기자｜한국식품안전관리인증원은 중국 칭다오 주재소에서 수입식품 해썹 적용 제조업소와 인증기관을 대상으로 실무교육을 실시했다고 31일 밝혔다. 지난 24일과 27일 양일간 교육을 진행했다.... ...",
-      "pub_date": "Tue, 31 Mar 2026 13:26:00 +0900",
-      "source": "iminju.net",
+      "title": "한국식품안전관리인증원, 수입식품 생산 단계 부터 철저히...중국 현지...",
+      "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=381169",
+      "description": "2026 수입식품 해썹 관련 현지 교육 / 한국식품안전관리인증원 제공 한국식품안전관리인증원(원장 한상배, 해썹인증원)은 중국 칭다오에 위치한 중국 주재소(이하 주재소)에서 수입식품 해썹 적용 제조업소 영업자와... ...",
+      "pub_date": "Tue, 31 Mar 2026 15:42:00 +0900",
+      "source": "fntoday.co.kr",
       "category": "관계기관 주요 동향",
       "keywords_matched": [
         "한국식품안전관리인증원"
@@ -666,6 +677,28 @@
       ]
     },
     {
+      "title": "농협중앙회, 전주농협 특별감사 돌입",
+      "link": "http://www.jeollailbo.com/news/articleView.html?idxno=796281",
+      "description": "농협중앙회가 전주농협에 대한 특별감사에 착수했다. 31일 농협중앙회 등에 따르면 검사국은 불법대출 의혹과 관련해 전날부터 전주농협 본점에 별도 공간을 마련하고 감사에 돌입했다. 이번 감사는 지난 2024년 불거진... ...",
+      "pub_date": "Tue, 31 Mar 2026 17:24:00 +0900",
+      "source": "jeollailbo.com",
+      "category": "관계기관 주요 동향",
+      "keywords_matched": [
+        "농협중앙회"
+      ]
+    },
+    {
+      "title": "농협중앙회 영덕군지부, 농심천심(農心天心)운동 캠페인",
+      "link": "http://www.hidomin.com/news/articleView.html?idxno=614699",
+      "description": "농협중앙회 영덕군지부가 제29회 영덕대게축제장에서 '농심천심(農心天心) 운동' 캠페인을 전개하고 있다. 농협 영덕군지부 제공. 농협중앙회 영덕군지부(지부장 정창미)는 지난달 28일 '제29회 영덕대게축제'의 축제장... ...",
+      "pub_date": "Tue, 31 Mar 2026 17:08:00 +0900",
+      "source": "hidomin.com",
+      "category": "관계기관 주요 동향",
+      "keywords_matched": [
+        "농협중앙회"
+      ]
+    },
+    {
       "title": "정성진, 양계농협 조합장 농협중앙회 대의원 선출",
       "link": "http://www.amnews.co.kr/news/articleView.html?idxno=71718",
       "description": "정성진 한국양계농협 조합장이 농협중앙회 대의원으로 선출됐다. 품목조합 양계 부문을 대표하는 대의원으로 선출된 정 조합장은 현재 전국양계관련조합장협의회장, 서울시 축협운영협의회장, 농협사료 이사 등을 맡고... ...",
@@ -693,39 +726,6 @@
       "description": "농협중앙회 광주본부(본부장 이철호)는 지난 2025년 집중호우로 인해 특별 재난구역으로 선포된 관내 수해 지역 농업인 자녀들을 대상으로 학습용 태블릿PC를 전달했다고 31일 밝혔다. 이번 지원은 수해로 인해 학습 환경이... ...",
       "pub_date": "Tue, 31 Mar 2026 15:42:00 +0900",
       "source": "newsworker.co.kr",
-      "category": "관계기관 주요 동향",
-      "keywords_matched": [
-        "농협중앙회"
-      ]
-    },
-    {
-      "title": "농협중앙회, 상반기 전국 농축협 신규직원 860명 공개채용",
-      "link": "http://www.srtimes.kr/news/articleView.html?idxno=200038",
-      "description": "농협중앙회는 청년고용 확대를 위해 올해 상반기 전국 농축협 신규직원 860명을 공개 채용한다고 31일 밝혔다. 이번 채용은 연령, 학력, 성별 제한이 없는 블라인드 방식으로 진행된다. 국가유공자 등 예우 및 지원에 관한... ...",
-      "pub_date": "Tue, 31 Mar 2026 14:40:00 +0900",
-      "source": "srtimes.kr",
-      "category": "관계기관 주요 동향",
-      "keywords_matched": [
-        "농협중앙회"
-      ]
-    },
-    {
-      "title": "농협중앙회 부산검사국, 농축협 임직원 사고예방 교육 실시",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026033113350842351",
-      "description": "농협중앙회 부산검사국(국장 김정화)은 지난 24일 부산농협 10층 대회의실에서 관내 농축협 임직원 50여 명을 대상으로 사고예방 교육을 실시했다고 밝혔다. 이번 교육은 부산농협 채권관리 교육과 연계하여 참석한... ...",
-      "pub_date": "Tue, 31 Mar 2026 13:36:00 +0900",
-      "source": "busan.com",
-      "category": "관계기관 주요 동향",
-      "keywords_matched": [
-        "농협중앙회"
-      ]
-    },
-    {
-      "title": "농협중앙회, 농축협 신규직원 860명 공개 채용",
-      "link": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3018040",
-      "description": "기호일보, KIHOILBO 농협중앙회가 31일부터 전국 농·축협 신규직원 공개 채용을 실시한다. 농협중앙회가 청년고용 확대를 위해 올해 상반기 전국 농축협 신규직원 860명에 대한 공개 채용을 진행한다. 이번 채용은 연령... ...",
-      "pub_date": "Tue, 31 Mar 2026 13:34:00 +0900",
-      "source": "kihoilbo.co.kr",
       "category": "관계기관 주요 동향",
       "keywords_matched": [
         "농협중앙회"
