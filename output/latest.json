@@ -41,7 +41,7 @@
       "source": "sjbnews.com",
       "category": "식품진흥원 & 국가식품클러스터",
       "keywords_matched": [
-        "식품진흥원"
+        "국가식품클러스터"
       ]
     },
     {
@@ -498,11 +498,22 @@
   ],
   "식품산업": [
     {
-      "title": "영산대 K-Food조리전공, 사찰음식 경연대회 대상 수상",
-      "link": "https://www.news1.kr/local/busan-gyeongnam/6123018",
-      "description": "총 8개 팀이 참가한 경연에서 대상은 영산대 조리예술학부 K-Food조리전공 '걸리버 사찰기' 팀(2학년 김보민·최이욱)이 차지했다. 이 팀은 전통 발효식품을 활용한 메뉴로 사찰음식의 특성과 창의성을 결합한 점에서... ...",
-      "pub_date": "Thu, 02 Apr 2026 10:53:00 +0900",
-      "source": "news1.kr",
+      "title": "영산대 K-Food조리전공, 백련사 사찰음식 경연대회 ‘대상’",
+      "link": "https://www.cnbnews.com/news/article.html?no=787227",
+      "description": "지난달 28일 ‘제6회 차와 사찰음식 경연대회’ 수상 기념촬영 모습.(사진=영산대 제공) 와이즈유 영산대학교 조리예술학부 K-Food조리전공이 전국 규모의 요리 대회에서 대상 등 출전팀 전원이 수상하며 명실상부한 조리... ...",
+      "pub_date": "Thu, 02 Apr 2026 11:42:00 +0900",
+      "source": "cnbnews.com",
+      "category": "식품산업",
+      "keywords_matched": [
+        "K-Food"
+      ]
+    },
+    {
+      "title": "김해문화관광재단, K-Food로 관광 판 키운다…‘쿠킹클래스’ 첫 공개",
+      "link": "https://www.cnbnews.com/news/article.html?no=787235",
+      "description": "지난달 31일 김해가야테마파크 ‘쿠킹클래스’ 시범운영 현장.(사진=김해문화관광재단 제공) 김해문화관광재단은 지난달 31일 해외 관광객 유치를 위한 신규 관광 콘텐츠 ‘K-Food 쿠킹클래스’ 쇼케이스를 운영하며... ...",
+      "pub_date": "Thu, 02 Apr 2026 11:42:00 +0900",
+      "source": "cnbnews.com",
       "category": "식품산업",
       "keywords_matched": [
         "K-Food"
@@ -575,7 +586,19 @@
       ]
     }
   ],
-  "입주기업": [],
+  "입주기업": [
+    {
+      "title": "농식품 벤처투자 활성화 시동…비건 페스타서 1:1 투자 컨설팅 진행",
+      "link": "https://www.asiatoday.co.kr/view.php?key=20260402001132531",
+      "description": "AI 푸드테크까지 확장…농식품벤처투자협회, 투자유치 지원 강화 한국농식품벤처투자협회(이하 협회)는 (사)중소기업푸드테크협회, ㈜베지노믹스페어 비건페스타가 공동주최하는 제10회 비건 페스타에서 행사... ...",
+      "pub_date": "Thu, 02 Apr 2026 11:38:00 +0900",
+      "source": "asiatoday.co.kr",
+      "category": "입주기업",
+      "keywords_matched": [
+        "식품 벤처"
+      ]
+    }
+  ],
   "관계기관 주요 동향": [
     {
       "title": "\"한식진흥원·한국동물약품기술연구원 유치해야\"",
@@ -627,28 +650,6 @@
       "description": "3월 31일 본청 국제회의장 열려, 노사협의회 위원 및 노사업무 담당자 노사 갈등 이해·소통 역량 강화… 고충 처리 기능 개선 노사협의회 위원 간 대화･공감, 상호 신뢰 기반 협력 관계 구축 농촌진흥청(청장 이승돈)은... ...",
       "pub_date": "Wed, 01 Apr 2026 17:44:00 +0900",
       "source": "newsam.co.kr",
-      "category": "관계기관 주요 동향",
-      "keywords_matched": [
-        "농촌진흥청"
-      ]
-    },
-    {
-      "title": "농촌진흥청, 자가 섬유질배합사료 도입 농가 찾아 현장 목소리 들어",
-      "link": "https://www.newsam.co.kr/news/article.html?no=42502",
-      "description": "이승돈 청장 1일 한우농가 방문…섬유질배합사료 제조 현장 점검 농가 어려움 듣고 개선 사항 논의 이 청장 “현장 중심 기술 보급으로 한우농가 경영난 해소에 앞장설 것” 이승돈 농촌진흥청장은 4월 1일 충청북도... ...",
-      "pub_date": "Wed, 01 Apr 2026 17:32:00 +0900",
-      "source": "newsam.co.kr",
-      "category": "관계기관 주요 동향",
-      "keywords_matched": [
-        "농촌진흥청"
-      ]
-    },
-    {
-      "title": "경북도 잠사곤충사업장, 농촌진흥청 국가연구개발사업 공모 선정",
-      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1244234",
-      "description": "경상북도 잠사곤충사업장이 농촌진흥청 국가연구개발사업 공모에 선정되며 차세대 곤충 단백질 기술 개발에 나선다고 1일 밝혔다. 이번 사업은 '차세대 단백질 풍미 증진 및 알레르겐 관리 기술 개발'을 목표로 올해부터... ...",
-      "pub_date": "Wed, 01 Apr 2026 17:12:00 +0900",
-      "source": "jeonmae.co.kr",
       "category": "관계기관 주요 동향",
       "keywords_matched": [
         "농촌진흥청"
@@ -740,6 +741,17 @@
       "category": "관계기관 주요 동향",
       "keywords_matched": [
         "한국식품안전관리인증원"
+      ]
+    },
+    {
+      "title": "농협중앙회 구미시지부·경산시지부, 고향사랑기부 3천만원 상호기부",
+      "link": "https://www.dkilbo.com/news/articleView.html?idxno=539573",
+      "description": "▲ 농협중앙회 구미시지부는 경산시지부와 고향사랑기부 3천만원 상호기부했다. 구미시는 2일 농협중앙회 구미시지부와 경산시지부가 지역 상생 발전을 위한 고향사랑기부금 3000만원을 상호기부했다고 밝혔다. 이번... ...",
+      "pub_date": "Thu, 02 Apr 2026 12:30:00 +0900",
+      "source": "dkilbo.com",
+      "category": "관계기관 주요 동향",
+      "keywords_matched": [
+        "농협중앙회"
       ]
     },
     {
