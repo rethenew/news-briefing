@@ -166,22 +166,22 @@
       ]
     },
     {
-      "title": "식품산업 '지역 혁신 거점' 시동…식품융합클러스터 시범지역 2곳 선정",
-      "link": "https://www.nocutnews.co.kr/news/6496343?utm_source=naver&utm_medium=article&utm_campaign=20260405110015",
-      "description": "식품융합클러스터는 지역의 식품기업·대학·연구기관·지방정부가 한 지역에 모여 협력하는 산업 생태계를 말하며 지역 내 식품기업 창업, 기술개발, 수출 등 전주기 지원을 하고, 전북 익산 국가식품클러스터를... ...",
+      "title": "경북·전남 식품융합클러스터 선정…지역 식품산업 키운다",
+      "link": "https://www.etnews.com/20260405000014",
+      "description": "정부는 전북 익산 국가식품클러스터를 중심으로 2030년까지 전국 9곳으로 확대할 계획이다. 이번 시범사업은 그 확산 단계에 해당한다. 선정 지역에는 산학연관 협력체계 구축과 기업 맞춤형 기술개발, 시설 공동 활용, 수출... ...",
       "pub_date": "Sun, 05 Apr 2026 11:01:00 +0900",
-      "source": "nocutnews.co.kr",
+      "source": "etnews.com",
       "category": "식품진흥원 & 국가식품클러스터",
       "keywords_matched": [
         "국가식품클러스터"
       ]
     },
     {
-      "title": "경북·전남 식품융합클러스터 선정…지역 식품산업 키운다",
-      "link": "https://www.etnews.com/20260405000014",
-      "description": "정부는 전북 익산 국가식품클러스터를 중심으로 2030년까지 전국 9곳으로 확대할 계획이다. 이번 시범사업은 그 확산 단계에 해당한다. 선정 지역에는 산학연관 협력체계 구축과 기업 맞춤형 기술개발, 시설 공동 활용, 수출... ...",
+      "title": "식품산업 '지역 혁신 거점' 시동…식품융합클러스터 시범지역 2곳 선정",
+      "link": "https://www.nocutnews.co.kr/news/6496343?utm_source=naver&utm_medium=article&utm_campaign=20260405110015",
+      "description": "식품융합클러스터는 지역의 식품기업·대학·연구기관·지방정부가 한 지역에 모여 협력하는 산업 생태계를 말하며 지역 내 식품기업 창업, 기술개발, 수출 등 전주기 지원을 하고, 전북 익산 국가식품클러스터를... ...",
       "pub_date": "Sun, 05 Apr 2026 11:01:00 +0900",
-      "source": "etnews.com",
+      "source": "nocutnews.co.kr",
       "category": "식품진흥원 & 국가식품클러스터",
       "keywords_matched": [
         "국가식품클러스터"
@@ -509,6 +509,17 @@
   ],
   "식품산업": [
     {
+      "title": "전북지역 특산물로 만든 에너지바...전북자치도, '전북형 스포츠 K-Food'...",
+      "link": "http://www.jeollailbo.com/news/articleView.html?idxno=796692",
+      "description": "전북특별자치도가 지역의 농특산물을 활용한 '전북형 스포츠 K-Food' 홍보에 나섰다. 5일 도에 따르면 도는 지난 2일부터 3일까지 군산에서 열린 새만금마라톤대회와 연계해 해외 참가 선수단을 대상으로'푸드 라운지'를... ...",
+      "pub_date": "Sun, 05 Apr 2026 13:50:00 +0900",
+      "source": "jeollailbo.com",
+      "category": "식품산업",
+      "keywords_matched": [
+        "K-Food"
+      ]
+    },
+    {
       "title": "해외 선수단을 매혹한 ‘전북형 스포츠 K-Food’",
       "link": "https://news.mtn.co.kr/news-detail/2026040320273590473",
       "description": "해외 선수단을 대상으로 한 K-푸드 라운지.김제 연근부각, 무주 호두강정, 전주 고추장 에너지바, 진안 꿀 홍삼 부라우니...전북자치도가 2일부터 3일까지 군산에서 열린 새만금마라톤대회에 선보인 ‘전북형 스포츠 K-Food... ...",
@@ -671,6 +682,17 @@
       "description": "◇과장급 승진 ▲국립농업과학원 농촌환경안전과장 김상범 ▲국립식량과학원 기획조정과장 정광호... 옥현충 ▲농촌지원국 농업인안전과장 김경수 ▲농촌지원국 식량산업기술팀장 장재기 ▲국립식량과학원... ...",
       "pub_date": "Sat, 04 Apr 2026 10:36:00 +0900",
       "source": "econonews.co.kr",
+      "category": "관계기관 주요 동향",
+      "keywords_matched": [
+        "농촌진흥청"
+      ]
+    },
+    {
+      "title": "[농촌진흥청 국립축산과학원 개발] AI가 읽는 모돈 체형, 급이 자동화 시...",
+      "link": "https://www.chukkyung.co.kr/news/articleView.html?idxno=80446",
+      "description": "인공지능이 모돈의 체형을 읽고 사료량을 스스로 조절하는 '지능형 모돈 체형 관리 시스템'이 스마트 양돈 전환의 게임체인저로 부상하고 있다. 3D 센서와 AI 알고리즘을 결합한 이 기술은 번식 관리 방식을 데이터 기반... ...",
+      "pub_date": "Fri, 03 Apr 2026 15:18:00 +0900",
+      "source": "chukkyung.co.kr",
       "category": "관계기관 주요 동향",
       "keywords_matched": [
         "농촌진흥청"
