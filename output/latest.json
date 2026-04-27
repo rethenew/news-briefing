@@ -232,9 +232,9 @@
       ]
     },
     {
-      "title": "해조류 식품, 글로벌 협력으로 키운다…한-덴마크 공동 연구 추진",
-      "link": "http://www.youngnong.co.kr/news/articleView.html?idxno=59030",
-      "description": "- 가공ㆍ표준화 기술 연계…유럽 시장 진출 기반 마련 한국식품산업클러스터진흥원이 덴마크와의 협력을 통해 해조류 기반 식품 산업의 글로벌 경쟁력 강화에 나선다. 식품진흥원은 덴마크 정부가 추진하는 글로벌 혁신... ...",
+      "title": "식품 제조도 '공유' 시대…중소기업 진입장벽 낮춘다",
+      "link": "http://www.youngnong.co.kr/news/articleView.html?idxno=59029",
+      "description": "[사진=식품진흥원] [한국영농신문 이병로 기자] 한국식품산업클러스터진흥원이 식품 제조 인프라를 공동으로 활용하는 '공유공장' 모델을 통해 중소 식품기업의 경쟁력 강화에 나섰다.... ...",
       "pub_date": "Thu, 23 Apr 2026 12:46:00 +0900",
       "source": "youngnong.co.kr",
       "category": "식품진흥원 & 국가식품클러스터",
@@ -243,9 +243,9 @@
       ]
     },
     {
-      "title": "식품 제조도 '공유' 시대…중소기업 진입장벽 낮춘다",
-      "link": "http://www.youngnong.co.kr/news/articleView.html?idxno=59029",
-      "description": "[사진=식품진흥원] [한국영농신문 이병로 기자] 한국식품산업클러스터진흥원이 식품 제조 인프라를 공동으로 활용하는 '공유공장' 모델을 통해 중소 식품기업의 경쟁력 강화에 나섰다.... ...",
+      "title": "해조류 식품, 글로벌 협력으로 키운다…한-덴마크 공동 연구 추진",
+      "link": "http://www.youngnong.co.kr/news/articleView.html?idxno=59030",
+      "description": "- 가공ㆍ표준화 기술 연계…유럽 시장 진출 기반 마련 한국식품산업클러스터진흥원이 덴마크와의 협력을 통해 해조류 기반 식품 산업의 글로벌 경쟁력 강화에 나선다. 식품진흥원은 덴마크 정부가 추진하는 글로벌 혁신... ...",
       "pub_date": "Thu, 23 Apr 2026 12:46:00 +0900",
       "source": "youngnong.co.kr",
       "category": "식품진흥원 & 국가식품클러스터",
@@ -586,19 +586,7 @@
       ]
     }
   ],
-  "입주기업": [
-    {
-      "title": "AI로 기능성 펫푸드 고도화… 올데이올가닉, 농식품 벤처육성 ‘첨단기...",
-      "link": "https://www.venturesquare.net/1078024/",
-      "description": "AI 기반 프리미엄 기능성 자연식 펫푸드 스타트업 올데이올가닉은 농림축산식품부가 주관하는 ‘농식품 벤처육성 사업’ 첨단기술 분야에 최종 선정됐다고 밝혔다.... ...",
-      "pub_date": "Thu, 23 Apr 2026 18:09:00 +0900",
-      "source": "venturesquare.net",
-      "category": "입주기업",
-      "keywords_matched": [
-        "식품 벤처"
-      ]
-    }
-  ],
+  "입주기업": [],
   "관계기관 주요 동향": [
     {
       "title": "전북과학대, 'K-푸드' 전국 무대서 통했다… 한식진흥원 이사장상 쾌거",
@@ -620,6 +608,28 @@
       "category": "관계기관 주요 동향",
       "keywords_matched": [
         "한식진흥원"
+      ]
+    },
+    {
+      "title": "홍문표 한국농수산식품유통공사 사장, 할렘 고교 방문",
+      "link": "https://www.koreadaily.com/article/20260426170219470",
+      "description": "",
+      "pub_date": "Mon, 27 Apr 2026 09:04:00 +0900",
+      "source": "koreadaily.com",
+      "category": "관계기관 주요 동향",
+      "keywords_matched": [
+        "한국농수산식품유통공사"
+      ]
+    },
+    {
+      "title": "[농림축산식품부X농수축산신문] 2026 축산, 현장 행정을 말하다",
+      "link": "https://www.aflnews.co.kr/news/articleView.html?idxno=319462",
+      "description": "축산악취 업무를 총괄하는 신민경 농식품부 축산환경과 주무관은 \"강 주무관은 축산 악취관리에 새로운 이정표를 제시했다\"면서 강 주무관에게 매우 수고했다며 \"폭싹 속았수다\"라고 전했다. ▶강동근 주무관은 다음... ...",
+      "pub_date": "Mon, 27 Apr 2026 07:00:00 +0900",
+      "source": "aflnews.co.kr",
+      "category": "관계기관 주요 동향",
+      "keywords_matched": [
+        "농림축산식품부"
       ]
     },
     {
