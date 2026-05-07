@@ -562,9 +562,32 @@
       "keywords_matched": [
         "푸드테크"
       ]
+    },
+    {
+      "title": "전남 농수산식품 수출 20.9% 증가",
+      "link": "http://www.amnews.co.kr/news/articleView.html?idxno=72434",
+      "description": "음료 품목은 일본(121.1%↑)과 중국(237%↑) 등 주요 국가에서 큰 폭으로 증가함에 따라 1천500만 달러(63.7%↑)를 기록하며 가공식품 수출 성장을 견인했다. 또한 미역은 904만 달러(97.9%↑)로 두 배 가까운 성장률을... ...",
+      "pub_date": "Thu, 07 May 2026 16:42:00 +0900",
+      "source": "amnews.co.kr",
+      "category": "식품산업",
+      "keywords_matched": [
+        "식품 수출"
+      ]
     }
   ],
-  "입주기업": [],
+  "입주기업": [
+    {
+      "title": "농식품 스타트업 육성 '그린 유니콘 G-Corn' 13개사 선정",
+      "link": "https://www.itbiznews.com/news/articleView.html?idxno=212114",
+      "description": "'농식품 기술창업 액셀러레이터 육성지원 사업'은 농림축산식품부가 주최하고 한국농업기술진흥원이 주관하는 사업으로, 농식품 분야 스타트업 발굴과 투자 기반 조성을 목적으로 운영된다. 이번 프로그램은... ...",
+      "pub_date": "Thu, 07 May 2026 17:00:00 +0900",
+      "source": "itbiznews.com",
+      "category": "입주기업",
+      "keywords_matched": [
+        "식품 스타트업"
+      ]
+    }
+  ],
   "관계기관 주요 동향": [
     {
       "title": "한식진흥원, 호주·태국서 '장(醬)' 문화 확산 주도",
@@ -633,6 +656,39 @@
       ]
     },
     {
+      "title": "농촌진흥청 국립축산과학원 개원 74주년…미래 축산 기술 도약 다짐",
+      "link": "https://www.newsam.co.kr/news/article.html?no=42860",
+      "description": "연구 성과 돌아보고 미래 축산 기술 발전 의지 다져 우수 직원 포상, 가족 초청 행사…자긍심 높이고 소통 문화 확산 생명 존중 가치 되새기며 국민과 함께하는 연구기관 도약 다짐 농촌진흥청(청장 이승돈)... ...",
+      "pub_date": "Thu, 07 May 2026 16:28:00 +0900",
+      "source": "newsam.co.kr",
+      "category": "관계기관 주요 동향",
+      "keywords_matched": [
+        "농촌진흥청"
+      ]
+    },
+    {
+      "title": "농촌진흥청, ‘여과액비 시설재배지 관비 적용 확대’ 현장 점검",
+      "link": "https://www.newsam.co.kr/news/article.html?no=42857",
+      "description": "성제훈 국립농업과학원장, 7일 공주 여과액비 관비 현장실증 농가 방문 작물 생산성, 양분 이용 효율 등 현장 점검, 농가 의견 청취 가축분뇨 자원 순환적 활용 확대 방안 모색 농촌진흥청(청장 이승돈) 국립농업과학원은... ...",
+      "pub_date": "Thu, 07 May 2026 15:54:00 +0900",
+      "source": "newsam.co.kr",
+      "category": "관계기관 주요 동향",
+      "keywords_matched": [
+        "농촌진흥청"
+      ]
+    },
+    {
+      "title": "농어촌공사-농촌진흥청, 농림위성으로 농업시설 관리 '스마트화' 맞손",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=451102",
+      "description": "한국농어촌공사-농촌진흥청, 농림위성으로 농업시설 관리 '스마트화' 맞손. 사진= 한국농어촌공사. 한국농어촌공사와 농촌진흥청이 기후변화에 따른 농업재해 대응력을 높이기 위해 위성 정보를 활용한 첨단 관리 체계... ...",
+      "pub_date": "Thu, 07 May 2026 15:50:00 +0900",
+      "source": "pinpointnews.co.kr",
+      "category": "관계기관 주요 동향",
+      "keywords_matched": [
+        "농촌진흥청"
+      ]
+    },
+    {
       "title": "한국식품안전관리인증원, '대한민국 식품안전' 이끌 인재 10명 신규 채용",
       "link": "http://www.youngnong.co.kr/news/articleView.html?idxno=59228",
       "description": "[한국영농신문 이병로 기자] 한국식품안전관리인증원(원장 한상배, 해썹인증원)은 대한민국 식품안전의 미래를 이끌어갈 '2026년도 신규직원 채용'을 실시한다고 밝혔다. 이번 채용 인원은 총 10명으로 전국 5명... ...",
@@ -677,33 +733,55 @@
       ]
     },
     {
+      "title": "농협중앙회 당진시지부, 당진쌀 한끼김밥 체험부스 운영",
+      "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1076912",
+      "description": "농협중앙회 당진시지부와 당진시농협조합운영협의회(의장 김영구)는 104회 어린이날을 맞이해 온 가족이 함께 즐길수 있는'당진쌀로 만든 한끼 김밥'시식·홍보 부스를 운영했다. 이번 행사는 지역 대표 농산물인 당진쌀의... ...",
+      "pub_date": "Thu, 07 May 2026 16:58:00 +0900",
+      "source": "ccdn.co.kr",
+      "category": "관계기관 주요 동향",
+      "keywords_matched": [
+        "농협중앙회"
+      ]
+    },
+    {
+      "title": "농협중앙회, 디지털 영농 확산 나서",
+      "link": "http://www.amnews.co.kr/news/articleView.html?idxno=72439",
+      "description": "농협중앙회는 서울 중구 농협중앙회 본관에서 약 80만 명의 가입자를 보유한 디지털 영농 플랫폼'NH오늘농사'의 활성화와 청년세대와의 소통 강화를 위해 2026년 NH오늘농사 2030 서포터즈발대식을 개최했다. 이날... ...",
+      "pub_date": "Thu, 07 May 2026 16:42:00 +0900",
+      "source": "amnews.co.kr",
+      "category": "관계기관 주요 동향",
+      "keywords_matched": [
+        "농협중앙회"
+      ]
+    },
+    {
+      "title": "남대전농협 강병석 조합장, 농협중앙회 '새로운 농협 조합장상' 수상",
+      "link": "https://www.newstnt.com/news/articleView.html?idxno=701435",
+      "description": "남대전농협 강병석 조합장이 농협 발전과 지역사회 상생에 기여한 공로를 인정받아 농협중앙회가 수여하는 '새로운 농협 조합장상' 수상자로 선정됐다. 남대전농협에 따르면, 강병석 조합장은 7일 농협중앙회(회장 강호동)... ...",
+      "pub_date": "Thu, 07 May 2026 15:36:00 +0900",
+      "source": "newstnt.com",
+      "category": "관계기관 주요 동향",
+      "keywords_matched": [
+        "농협중앙회"
+      ]
+    },
+    {
+      "title": "농협중앙회, 부처님오신날 맞아 자비나눔기금 3000만원 쾌척",
+      "link": "http://www.ibulgyo.com/news/articleView.html?idxno=438067",
+      "description": "농협중앙회가 불기2570년 부처님오신날을 맞아 조계종 공익법인 아름다운동행에 자비나눔기금 3000만원을 쾌척했다. 강호동 농협중앙회 회장을 비롯한 임원진은 5월7일 한국불교역사문화기념관 4층 접견실에서 조계종... ...",
+      "pub_date": "Thu, 07 May 2026 15:32:00 +0900",
+      "source": "ibulgyo.com",
+      "category": "관계기관 주요 동향",
+      "keywords_matched": [
+        "농협중앙회"
+      ]
+    },
+    {
       "title": "농협중앙회, 미래농업 설계에 청년견해 수렴...2030 서포터즈 발족",
       "link": "http://www.metroseoul.co.kr/article/20260507500050",
       "description": "지난달 하순 활동을 시작한 'NH오늘농사 2030 서포터즈' /농협중앙회 농협은 우리 농업의 지향점인 디지털농업 관련해, 젊은이들의 의견 수렴 강화에 나선다. 20·30대와 소통을 강화하고 이들의 견해를 적극 반영하고자... ...",
       "pub_date": "Thu, 07 May 2026 10:32:00 +0900",
       "source": "metroseoul.co.kr",
-      "category": "관계기관 주요 동향",
-      "keywords_matched": [
-        "농협중앙회"
-      ]
-    },
-    {
-      "title": "농협중앙회장 직선제, 조합장 반발에 지방선거 전 처리 '제동'",
-      "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=242558",
-      "description": "농협중앙회장 선출 방식을 직선제로 바꾸는 농업협동조합법 개정 논의가 전국 농·축협 조합장들의 반발에 막혀 속도를 내지 못하고 있다. 정부와 여당은 6·3 지방선거 전 법안 처리를 목표로 했지만 국회 논의 일정이... ...",
-      "pub_date": "Thu, 07 May 2026 10:24:00 +0900",
-      "source": "safetimes.co.kr",
-      "category": "관계기관 주요 동향",
-      "keywords_matched": [
-        "농협중앙회"
-      ]
-    },
-    {
-      "title": "농협중앙회, 청년 서포터즈 발대식",
-      "link": "http://www.bokuennews.com/news/article.html?no=277776",
-      "description": "4월 30일 서울 중구 농협중앙회 본관에서 열린 NH오늘농사 2030 서포터즈 발대식에서 농협중앙회 박서홍 부회장(사진 셋째줄 왼쪽에서 여덟 번째)과 참석자들이 기념 촬영을 하고 있다 농협중앙회는 4월 30일 서울 중구... ...",
-      "pub_date": "Thu, 07 May 2026 09:10:00 +0900",
-      "source": "bokuennews.com",
       "category": "관계기관 주요 동향",
       "keywords_matched": [
         "농협중앙회"
