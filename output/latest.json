@@ -520,6 +520,17 @@
   ],
   "식품산업": [
     {
+      "title": "[K-FOOD 성장기] 삼양식품, '불닭'으로 증명한 '해외 성공 방정식'",
+      "link": "https://www.fetv.co.kr/news/articleView.html?idxno=302145",
+      "description": "삼양식품이 '불닭' 브랜드의 글로벌 흥행으로 해외 매출 비중을 84%까지 확대하며 지난해 역대 최대 실적을 달성했다. 영업이익률이 한 자릿수를 넘긴 힘든 국내 식품업체에 해외에서의 성공 가능성을 제시했다는데... ...",
+      "pub_date": "Wed, 13 May 2026 07:00:00 +0900",
+      "source": "fetv.co.kr",
+      "category": "식품산업",
+      "keywords_matched": [
+        "K-Food"
+      ]
+    },
+    {
       "title": "[조선의 K-FOOD] 200년 전 버블티는 어떤 맛일까",
       "link": "https://www.agrinet.co.kr/news/articleView.html?idxno=404081",
       "description": "『규합총서』의 저자 빙허각 이씨는 조선의 K-FOOD에서 자주 소개한 바 있는 200년 전 달성 서씨 집안의 농서, 요리책, 백과사전 저자들 중 유일한 여성으로, 『고사신서』를 쓴 서명응(徐命膺: 1716-1787)의 손주며느리... ...",
@@ -597,6 +608,17 @@
       ]
     },
     {
+      "title": "\"배달앱도 포함?\"…정부, '푸드테크' 산업 분류체계 구축 착수",
+      "link": "https://www.newsis.com/view/NISX20260511_0003623640",
+      "description": "정부가 인공지능(AI)·로봇 기반 식품 제조부터 온라인 플랫폼·배달 서비스까지 아우르는 푸드테크 산업의 공식 분류체계 마련에 착수했다. 정부는 연내 산업 범위를 체계화하고 국가승인통계 기반까지 구축해 향후... ...",
+      "pub_date": "Wed, 13 May 2026 06:05:00 +0900",
+      "source": "newsis.com",
+      "category": "식품산업",
+      "keywords_matched": [
+        "푸드테크"
+      ]
+    },
+    {
       "title": "농산물 생산·유통부터 푸드테크까지... '농업의 미래' 이끌 청년 창업...",
       "link": "http://www.fnnews.com/news/202605121815079305",
       "description": "최근에는 스마트팜 등 애그테크와 푸드테크 등 첨단 농산업이 새로운 성장 산업으로 주목받고 있다. 농정원은 농업과 기술·서비스를 결합한 창업 활성화를 위해 청년 대상 프로그램을 운영하고 있다. △'영농(Young 農)... ...",
@@ -613,28 +635,6 @@
       "description": "인공지능(AI)과 로봇, 데이터 기술이 식품 산업과 결합하며 '푸드테크(Food Tech)'가 미래 성장산업으로 부상하고 있다. 전통 식품산업보다 빠른 성장세를 보이는 푸드테크는 생산과 조리, 유통과 소비 방식까지 변화시키고... ...",
       "pub_date": "Tue, 12 May 2026 06:00:00 +0900",
       "source": "newspim.com",
-      "category": "식품산업",
-      "keywords_matched": [
-        "푸드테크"
-      ]
-    },
-    {
-      "title": "시카고에 펼쳐지는 미래형 주방...K-푸드테크, 2300억 북미 시장 ‘노크...",
-      "link": "https://www.hellot.net/news/article.html?no=112491",
-      "description": "국내 푸드테크 솔루션이 총망라한다. 한국AI·로봇산업협회(KAR)·대한무역투자진흥공사(KOTRA)는 글로벌 외신 산업 박람회 ‘미국 시카고 레스토랑 전시회(National Restaurant Association Show 이하 NRAS)’에 한국관을... ...",
-      "pub_date": "Mon, 11 May 2026 17:38:00 +0900",
-      "source": "hellot.net",
-      "category": "식품산업",
-      "keywords_matched": [
-        "푸드테크"
-      ]
-    },
-    {
-      "title": "‘2026 농식품 창업콘테스트’ 참가자 모집 시작… AI·푸드테크 등 첨단...",
-      "link": "https://www.donga.com/news/Economy/article/all/20260511/133899713/1",
-      "description": "최근 농식품 산업은 AI, 로보틱스, 푸드테크, 스마트팜 등 첨단 기술 중심으로 빠르게 재편되고 있다. 실제 지난해에는 AI 기반 온실 자율주행 로봇을 개발한 ‘아이오크롭스’가 대통령상을 수상했다. 2024년에는 대체... ...",
-      "pub_date": "Mon, 11 May 2026 17:28:00 +0900",
-      "source": "donga.com",
       "category": "식품산업",
       "keywords_matched": [
         "푸드테크"
@@ -766,11 +766,11 @@
       ]
     },
     {
-      "title": "함양군, 농림축산식품부 방문 양파 수급 안정 시범사업 건의",
-      "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=636714",
-      "description": "함양군은 지난 11일 농림축산식품부를 방문해 양파 수급 안정을 위한 시범사업을 건의하고 양파 산업 현안에 대해 다양한 의견을 교환했다. 이날 방문에는 함양군 농업기술센터소장과 농산물유통과장을 비롯해 이홍주... ...",
-      "pub_date": "Tue, 12 May 2026 19:14:00 +0900",
-      "source": "gnnews.co.kr",
+      "title": "[오늘의 주요일정]농림축산식품부(5월13일수요일)",
+      "link": "https://www.newsis.com/view/NISX20260512_0003625228",
+      "description": "▲~15일 이승돈 농촌진흥청장, 국외출장(우즈베키스탄) ▲08:30 송미령 농림축산식품부 장관, 비상경제본부회의(서울) ▲15:00 송미령 농림축산식품부 장관, 농업·농촌 에너지 대전환 선도지역 현장간담회(강원 춘천)...",
+      "pub_date": "Wed, 13 May 2026 06:00:00 +0900",
+      "source": "newsis.com",
       "category": "관계기관 주요 동향",
       "keywords_matched": [
         "농림축산식품부"
@@ -788,14 +788,14 @@
       ]
     },
     {
-      "title": "[메디컬투데이 - 쇼츠뉴스] 식품의약품안전처, 의료기기 품질관리 규정...",
-      "link": "https://mdtoday.co.kr/news/view/1065613608996499",
-      "description": "· 식품의약품안전처는 제조 및 품질관리 기준(GMP) 미준수와 변경 허가 미이행 등을 이유로 신진메딕스, 중앙메디칼, 씨엔에스컴퍼니 등 의료기기 업체 5곳에 행정처분을 내렸습니다. · 이번 조치에 따라 해당 업체들은... ...",
-      "pub_date": "Tue, 12 May 2026 20:48:00 +0900",
-      "source": "mdtoday.co.kr",
+      "title": "서울시·농촌진흥청 '대한민국 곤충경진대회' 연다",
+      "link": "https://www.kidshankook.kr/news/articleView.html?idxno=17122",
+      "description": "서울시가 농촌진흥청과 함께 다음 달 12~14일 강남구 세텍(SETEC)에서 '제10회 대한민국 곤충경진대회'를 연다. 시민 참여형 축제로, 지난해에는 1만 6000여 명이 행사장을 찾았다. 경진대회는 장수풍뎅이ㆍ넓적사슴벌레 등... ...",
+      "pub_date": "Wed, 13 May 2026 08:18:00 +0900",
+      "source": "kidshankook.kr",
       "category": "관계기관 주요 동향",
       "keywords_matched": [
-        "식품의약품안전처"
+        "농촌진흥청"
       ]
     },
     {
@@ -807,6 +807,28 @@
       "category": "관계기관 주요 동향",
       "keywords_matched": [
         "농촌진흥청"
+      ]
+    },
+    {
+      "title": "세븐일레븐, 즉석조리 식품 경쟁력 강화..한국식품안전관리인증원과 업...",
+      "link": "https://kpenews.com/View.aspx?No=4075683",
+      "description": "한국정경신문 서재필 기­자 abceee64@gmail.com [한국정경신문=서재필 기자] 편의점 세븐일레븐이 한국식품안전관리인증원과 손잡고 당사의 위생 관리 노하우에 국가 공인 기준을 더해 가맹점의 즉석조리 식품 경쟁력 강화에... ...",
+      "pub_date": "Wed, 13 May 2026 08:10:00 +0900",
+      "source": "kpenews.com",
+      "category": "관계기관 주요 동향",
+      "keywords_matched": [
+        "한국식품안전관리인증원"
+      ]
+    },
+    {
+      "title": "농협중앙회, 농협 개혁안에 '위헌' 주장 공식화",
+      "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=234249",
+      "description": "<정기훈 기자> 강호동 농협중앙회장의 비리 의혹으로 촉발된 농협개혁안 내용을 담은 법안이 국회 소관상임위원회를 넘지 못했다. 여당이 국회 상반기에 개정안 통과 의지를 밝혔지만 관련 논의는 올해 6·3 지방선거 이후... ...",
+      "pub_date": "Wed, 13 May 2026 06:32:00 +0900",
+      "source": "labortoday.co.kr",
+      "category": "관계기관 주요 동향",
+      "keywords_matched": [
+        "농협중앙회"
       ]
     },
     {
