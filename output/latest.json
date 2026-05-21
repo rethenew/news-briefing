@@ -177,17 +177,6 @@
       ]
     },
     {
-      "title": "민주당 전북도당, AI 자율제조·RE100·금융중심지 등 지방선거 7대 공약...",
-      "link": "https://www.pressian.com/pages/articles/2026051912243033524?utm_source=naver&utm_medium=search",
-      "description": "또 국가식품클러스터 2단계와 영화·영상산업 거점 조성, 판소리 산업 복합단지 등을 통해 글로벌 K-문화수도 조성에 나서고, 반도체·이차전지·그린바이오 등 미래 전략산업 육성으로 ‘대한민국 초혁신경제 1번지’... ...",
-      "pub_date": "Tue, 19 May 2026 12:48:00 +0900",
-      "source": "pressian.com",
-      "category": "식품진흥원 & 국가식품클러스터",
-      "keywords_matched": [
-        "국가식품클러스터"
-      ]
-    },
-    {
       "title": "김천시, 농식품 가공 창업교육 참가자 모집",
       "link": "https://www.kbsm.net/news/view.php?idx=520300",
       "description": "이번 과정은 지역 농산물을 활용한 가공산업 활성화와 예비 창업농 육성을 위해 마련됐다.교육은 국내 식품산업 전문기관인 한국식품산업클러스터진흥원과 연계해 전북 익산에서 진행된다. 신청 대상은 김천시에 주소를... ...",
@@ -487,6 +476,17 @@
   ],
   "식품산업": [
     {
+      "title": "'전북 K-Food 스포츠 외교 홍보단' 카이로서 홍보활동",
+      "link": "http://www.jjn.co.kr/news/articleView.html?idxno=1041676",
+      "description": "전북도가 파견한 '전북 K-Food 스포츠 외교 홍보단'은 현지 시간으로 지난 17일부터 21일까지 이집트 수도 카이로에서 국제 홍보 활동을 펼쳤다. 전주대 한식조리학과와 K-푸드산업연구소 소속 관계자들로 구성된... ...",
+      "pub_date": "Thu, 21 May 2026 18:40:00 +0900",
+      "source": "jjn.co.kr",
+      "category": "식품산업",
+      "keywords_matched": [
+        "K-Food"
+      ]
+    },
+    {
       "title": "Korea’s K-food exports keep rising, defying global shipping strains",
       "link": "https://www.koreatimes.co.kr/path/A2026052114100004710",
       "description": "The Ministry of Agriculture, Food and Rural Affairs said Thursday that cumulative K-food exports reached 5.38 trillion won ($3.58 billion) through April, up 4.7 percent from $3.42 billion a year... ...",
@@ -677,6 +677,39 @@
       ]
     },
     {
+      "title": "농림축산식품부, 국제곡물​​​​​​​ 공급물량 확보 수급 안정 전망",
+      "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=637435",
+      "description": "농림축산식품부는 중동전쟁 장기화에 따른 국제곡물 동향을 파악하기 위해 관련 협회 및 업계 관계자를 대상으로 향후 국제가격 전망과 업계 애로사항 등에 대해 다양한 의견을 수렴했다고 21일 밝혔다. 중동전쟁 이후... ...",
+      "pub_date": "Thu, 21 May 2026 19:42:00 +0900",
+      "source": "gnnews.co.kr",
+      "category": "관계기관 주요 동향",
+      "keywords_matched": [
+        "농림축산식품부"
+      ]
+    },
+    {
+      "title": "농촌진흥청, 특수의료용도식품·고령친화식품 출시 잇따라",
+      "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=637431",
+      "description": "농촌진흥청은 항당뇨·항고혈압 효능이 우수한 국산 잡곡 혼합비율 설정 기술 이전으로, 국산 혼합 잡곡을 활용한 특수의료용도식품(메디푸드)과 고령친화식품 출시가 잇따르고 있다고 21일 밝혔다. 최근 고령화와 당뇨병... ...",
+      "pub_date": "Thu, 21 May 2026 19:42:00 +0900",
+      "source": "gnnews.co.kr",
+      "category": "관계기관 주요 동향",
+      "keywords_matched": [
+        "농촌진흥청"
+      ]
+    },
+    {
+      "title": "농촌진흥청​​​​​​​, 배수 관리로 풀사료 생산량 지킨다",
+      "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=637436",
+      "description": "농촌진흥청은 여름철 풀사료를 안정적으로 생산하기 위해 파종 직후 초기 관리와 장마철 배수 관리를 철저히 해야 한다고 21일 당부했다. 전략작물직불제와 연계해 논 재배가 확대되고 있는 사료피, 사료용 옥수수, 수수류... ...",
+      "pub_date": "Thu, 21 May 2026 19:42:00 +0900",
+      "source": "gnnews.co.kr",
+      "category": "관계기관 주요 동향",
+      "keywords_matched": [
+        "농촌진흥청"
+      ]
+    },
+    {
       "title": "농촌진흥청, K-농기계 중남미 수출 지원…현지 맞춤형 농기계 개발 착수",
       "link": "https://www.kenews.co.kr/news/article.html?no=89446",
       "description": "- 농촌진흥청-볼리비아 농림혁신청, 중남미 수출형 농기계 공동개발 추진 - 사업 첫해 2026년, 주요 작물 재배 형태와 농기계 활용 수준 분석 - 고산지대 소농 맞춤형 농기계 개발 예정 농촌진흥청(청장 이승돈)은 볼리비아... ...",
@@ -748,17 +781,6 @@
       "description": "방혜선 농촌진흥청 연구정책국장 \"방제효율을 높이기 위한 ‘검증된 농약’ 공급으로 농가경영비 절감\" 최근 우리 농촌은 과거에 경험하지 못한 급격한 기후변화를 마주하고 있다. 기록적인 폭염과 장마, 이상고온... ...",
       "pub_date": "Thu, 21 May 2026 14:58:00 +0900",
       "source": "kenews.co.kr",
-      "category": "관계기관 주요 동향",
-      "keywords_matched": [
-        "농촌진흥청"
-      ]
-    },
-    {
-      "title": "농촌진흥청, 미주개발은행과 농업협력 MOU 체결…중남미 농업기술 협력...",
-      "link": "http://www.queen.co.kr/news/articleView.html?idxno=457338",
-      "description": "농촌진흥청이 미주개발은행(IDB)과 손잡고 중남미·카리브해 지역 농업 협력 확대에 나선다. 농촌진흥청은 지난 20일 미주개발은행과 중남미·카리브해 지역 농업 협력 강화를 위한 양해각서(MOU)를 체결했다고 밝혔다. 이날... ...",
-      "pub_date": "Thu, 21 May 2026 14:04:00 +0900",
-      "source": "queen.co.kr",
       "category": "관계기관 주요 동향",
       "keywords_matched": [
         "농촌진흥청"
@@ -842,6 +864,50 @@
       ]
     },
     {
+      "title": "농협중앙회장, 187만명이 직접 뽑는다",
+      "link": "https://www.ngetnews.com/news/articleView.html?idxno=550431",
+      "description": "뉴스저널리즘 홍인택 기자 = 농협중앙회가 187만명의 전체 조합원이 직접 중앙회장을 선출하는 조합원 직선제를 전격 수용하고 대대적인 조직 쇄신에 나선다. 농협은 21일 강호동 회장 명의의 '농업인 조합원과 국민께... ...",
+      "pub_date": "Thu, 21 May 2026 19:06:00 +0900",
+      "source": "ngetnews.com",
+      "category": "관계기관 주요 동향",
+      "keywords_matched": [
+        "농협중앙회"
+      ]
+    },
+    {
+      "title": "[산업브리핑] 에듀윌·마사회·농협중앙회, AI 캠페인부터 전통문화 체...",
+      "link": "http://www.weeklytoday.com/news/articleView.html?idxno=776729",
+      "description": "▲농협중앙회 농협중앙회는 같은 날 서울 중구 농업박물관 야외 농원에서 초등학생들과 함께 전통 손모내기 체험 행사를 진행했다고 밝혔다. 이번 체험은 사라져가는 농경 문화를 계승하고 농업의 중요성을 알리기 위해... ...",
+      "pub_date": "Thu, 21 May 2026 19:02:00 +0900",
+      "source": "weeklytoday.com",
+      "category": "관계기관 주요 동향",
+      "keywords_matched": [
+        "농협중앙회"
+      ]
+    },
+    {
+      "title": "농협중앙회, 중앙회장 직선제 수용… 농협법 개정안 새 국면 열리나",
+      "link": "https://www.gokorea.kr/news/articleView.html?idxno=867150",
+      "description": "농협중앙회가 정부와 여당이 추진 중인 농협법 개정안에 대해 핵심 쟁점이었던 중앙회장 직선제를 수용하기로 결정했다. 이는 조합원 1,100명이 투표하던 기존 방식에서 벗어나 직접 선거로 농민들의 목소리를 더욱... ...",
+      "pub_date": "Thu, 21 May 2026 18:42:00 +0900",
+      "source": "gokorea.kr",
+      "category": "관계기관 주요 동향",
+      "keywords_matched": [
+        "농협중앙회"
+      ]
+    },
+    {
+      "title": "농협중앙회 대전본부, 한전 대전세종충남본부와 기업-농촌 이음운동 업...",
+      "link": "https://www.ggilbo.com/news/articleView.html?idxno=1159823",
+      "description": "▲ 농협중앙회 대전본부와 한국전력공사 대전세종충남본부가 21일 '기업-농촌 이음운동 업무협약(MOU)'을 체결한 가운데 관계자들이 기념촬영을 하고 있다. 농협중앙회 대전본부 제공 농협중앙회 대전본부와 한국전력공사... ...",
+      "pub_date": "Thu, 21 May 2026 18:34:00 +0900",
+      "source": "ggilbo.com",
+      "category": "관계기관 주요 동향",
+      "keywords_matched": [
+        "농협중앙회"
+      ]
+    },
+    {
       "title": "농협중앙회, 조합원 직선제 수용…외부감사위는 우려",
       "link": "https://www.idomin.com/news/articleView.html?idxno=2006311",
       "description": "농민이 농협중앙회장을 직접 뽑는다. 농협중앙회가 당정이 추진하는 농협 개혁안 핵심인 '조합원 직선제'를 수용했다. 다만 독립 외부감사위원회 설치에는 반대 뜻을 밝혔다. 강호동 농협중앙회장은 21일 중앙회 본관에서... ...",
@@ -858,17 +924,6 @@
       "description": "강호동 농협중앙회장(가운데)이 21일 서울 중구 농협중앙회 본관에서 농업인 조합원과 국민께 드리는 글을 발표하고 있다. <농협중앙회> 강호동 농협중앙회장이 조합원 직선제 도입을 수용한다는 뜻을 밝혔다. 강 회장은... ...",
       "pub_date": "Thu, 21 May 2026 18:10:00 +0900",
       "source": "businesspost.co.kr",
-      "category": "관계기관 주요 동향",
-      "keywords_matched": [
-        "농협중앙회"
-      ]
-    },
-    {
-      "title": "농협중앙회 대전본부, 한국전력공사 대전세종충남본부와 '기업-농촌 이...",
-      "link": "https://www.newstnt.com/news/articleView.html?idxno=703489",
-      "description": "농협중앙회 대전본부(본부장 박재명)와 한국전력공사 대전세종충남본부(본부장 신경휴)가 지역 경제 활성화와 지속가능한 농촌 환경 조성을 위해 '기업-농촌 이음운동'을 공동 추진하기로 했다. 농협중앙회 대전본부와... ...",
-      "pub_date": "Thu, 21 May 2026 18:00:00 +0900",
-      "source": "newstnt.com",
       "category": "관계기관 주요 동향",
       "keywords_matched": [
         "농협중앙회"
@@ -935,39 +990,6 @@
       "description": "농협중앙회는 21일 서울 중구 본관에서 전 계열사 준법감시 최고책임자들이 참석한 가운데 ‘제1차 범농협 준법감시 최고책임자 회의’를 개최했다고 밝혔다. 이번... ...",
       "pub_date": "Thu, 21 May 2026 17:18:00 +0900",
       "source": "breaknews.com",
-      "category": "관계기관 주요 동향",
-      "keywords_matched": [
-        "농협중앙회"
-      ]
-    },
-    {
-      "title": "강호동 농협중앙회장, 직선제 수용…외부 감사위엔 반대",
-      "link": "https://www.ddaily.co.kr/page/view/2026052117044877717",
-      "description": "농협중앙회가 중앙회장 선출 방식을 조합원 직선제로 바꾸는 방안을 수용하겠다고 밝혔다. 다만 당정이 추진하는 외부 감사위원회 신설에는 우려를 표하며 사실상 반대 입장을 냈다. 강호동 농협중앙회장은 21일 ‘농업인... ...",
-      "pub_date": "Thu, 21 May 2026 17:13:00 +0900",
-      "source": "ddaily.co.kr",
-      "category": "관계기관 주요 동향",
-      "keywords_matched": [
-        "농협중앙회"
-      ]
-    },
-    {
-      "title": "농협중앙회, 어린이들과 '전통 손모내기 체험 행사' 개최",
-      "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=41372",
-      "description": "농협중앙회(회장 강호동)는 21일 서울 중구 농업박물관 앞 야외 동원에서 미래세대인 어린이들과 함께 '전통 방식의 손모내기 체험행사'를 개최했다. 이번 행사는 사라져가는 농경문화를 계승하고 농업의 소중함을 알리기... ...",
-      "pub_date": "Thu, 21 May 2026 17:10:00 +0900",
-      "source": "s-journal.co.kr",
-      "category": "관계기관 주요 동향",
-      "keywords_matched": [
-        "농협중앙회"
-      ]
-    },
-    {
-      "title": "[기고]2차 공공기관 이전, 농협중앙회는 '농업 수도' 전남·광주로!",
-      "link": "https://www.namdonews.com/news/articleView.html?idxno=911314",
-      "description": "전남·광주는 국내 최대의 농업 생산기지이자 첨단 미래 농산업을 선도하고 있는 농업 분야 공공기관 이전의 최적지로, 농협중앙회 이전을 통해 생산·유통·금융 기능과 농업정책 실행 기반을 결합한 대한민국 농생명... ...",
-      "pub_date": "Thu, 21 May 2026 17:02:00 +0900",
-      "source": "namdonews.com",
       "category": "관계기관 주요 동향",
       "keywords_matched": [
         "농협중앙회"
