@@ -1,6 +1,17 @@
 {
   "식품진흥원 & 국가식품클러스터": [
     {
+      "title": "[기고] 민선 9기 전북의 운명- 예산이 아니라 전략의 시대",
+      "link": "https://www.jjan.kr/article/20260604500390",
+      "description": "지난 수십 년간 전북은 국가균형발전 정책 속에서 혁신도시를 조성하고 새만금을 개발했으며 국가식품클러스터와 탄소산업을 육성해 왔다. 그러나 현실은 녹록치 않다. 인구는 줄고 청년들은 떠나며 기업 유치는 기대에... ...",
+      "pub_date": "Wed, 10 Jun 2026 16:46:00 +0900",
+      "source": "jjan.kr",
+      "category": "식품진흥원 & 국가식품클러스터",
+      "keywords_matched": [
+        "국가식품클러스터"
+      ]
+    },
+    {
       "title": "10년간 생태혁신 결실··· 익산 녹색정원도시 대전환",
       "link": "http://www.jjn.co.kr/news/articleView.html?idxno=1043220",
       "description": "여기에 평화육교에서 목천교회로 이어지는 대간선수로변 3.5㎞ 구간의 명품 가로수길, 왕궁 국가식품클러스터 대로변 청단풍 거리, 남창초·모현초 등 8개소에 조성된 '자녀안심 그린숲'은 아이들의 안전한 통학로이자... ...",
@@ -199,14 +210,14 @@
       ]
     },
     {
-      "title": "전북 코스트코 특수, 익산 펠리피아 분양",
-      "link": "https://www.naeil.com/news/read/590783?ref=naver",
-      "description": "단지 바로 앞 익산 제2일반산단을 비롯해 익산 제1국가산단, 국가식품클러스터, 완주테크노밸리 등이 인근에 위치해 직주근접 여건을 갖췄다. 단지가 들어서는 곳은 무왕로 선화로 등을 통해 익산 도심으로 접근이... ...",
-      "pub_date": "Thu, 04 Jun 2026 13:08:00 +0900",
-      "source": "naeil.com",
+      "title": "[이지은 칼럼] 식품 사업의 첫단추, 영업의 종류부터 확인하라",
+      "link": "https://www.ppss.kr/news/articleView.html?idxno=297769",
+      "description": "한국식품산업클러스터진흥원이 운영하는 '청년식품 창업성장 지원사업'에는 2025년 55개 팀 모집에 375개 팀이 신청해 6.8대 1의 경쟁률을 기록했다. 중소벤처기업부의 '모두의 창업 프로젝트'에서도 로컬 트랙 식음료(F&B)... ...",
+      "pub_date": "Wed, 10 Jun 2026 17:51:00 +0900",
+      "source": "ppss.kr",
       "category": "식품진흥원 & 국가식품클러스터",
       "keywords_matched": [
-        "국가식품클러스터"
+        "한국식품산업클러스터진흥원"
       ]
     },
     {
@@ -516,17 +527,6 @@
       "keywords_matched": [
         "한국식품산업클러스터진흥원"
       ]
-    },
-    {
-      "title": "로컬푸드 창업 분야에 관심 집중",
-      "link": "http://www.bokuennews.com/news/article.html?no=279029",
-      "description": "아울러 한국식품산업클러스터진흥원(이하 식품진흥원)의 '청년식품창업센터' 내 시제품 제작실의 장비를 1년간 무상 이용하고, 현장 전문가의 자문 및 멘토링을 통해 제품 개발의 시행착오를 줄일 수 있도록 지원하며... ...",
-      "pub_date": "Mon, 01 Jun 2026 10:38:00 +0900",
-      "source": "bokuennews.com",
-      "category": "식품진흥원 & 국가식품클러스터",
-      "keywords_matched": [
-        "한국식품산업클러스터진흥원"
-      ]
     }
   ],
   "식품산업": [
@@ -539,6 +539,28 @@
       "category": "식품산업",
       "keywords_matched": [
         "기능성 농식품"
+      ]
+    },
+    {
+      "title": "NH농협은행, K-Food 농식품기업 지원 현판식 개최",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=123528",
+      "description": "2008년 설립 이후 국내산 유기농 인증 원료를 사용해 된장, 고추장 등 전통 장류를 생산하고 있다. 이영우 부행장은 \"앞으로도 K-Food 산업의 경쟁력 강화와 관련 기업 육성에 적극 앞장서겠다\"고 말했다. [팝콘뉴스]...",
+      "pub_date": "Wed, 10 Jun 2026 18:04:00 +0900",
+      "source": "popcornnews.net",
+      "category": "식품산업",
+      "keywords_matched": [
+        "K-Food"
+      ]
+    },
+    {
+      "title": "[Food Culture N] The Illusion of K-Food Globalization: Tasting Success Do...",
+      "link": "https://www.nc.press/news/articleView.html?idxno=617710",
+      "description": "K-Food's global expansion strategy is evolving beyond festival-stage exposure and celebrity-driven buzz toward something far more difficult: converting cultural interest into measurable consumer... ...",
+      "pub_date": "Wed, 10 Jun 2026 17:19:00 +0900",
+      "source": "nc.press",
+      "category": "식품산업",
+      "keywords_matched": [
+        "K-Food"
       ]
     },
     {
@@ -564,25 +586,102 @@
       ]
     },
     {
-      "title": "공주시, 'K-Food 수출 경쟁력' 겨냥... 친환경 포장 인프라 승부수",
-      "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=430492",
-      "description": "시는 지난 9일 고양 킨텍스에서 열린 '2026 월드푸드테크 컨퍼런스 & 전시회'에서 'K-Food 친환경 포장 전환과 글로벌 규제 대응 전략'을 주제로 정책 세션을 열고, 친환경 포장 산업의 현장 과제와 공공 연구지원 인프라 구축... ...",
-      "pub_date": "Wed, 10 Jun 2026 11:20:00 +0900",
-      "source": "newsworker.co.kr",
+      "title": "의약품 넘어 ‘미래 식량’으로…마이크로디지탈, 푸드테크 영토 확장",
+      "link": "https://www.dt.co.kr/article/12066974?ref=naver",
+      "description": "바이오 소재·부품·장비 기업 마이크로디지탈이 푸드테크 산업 무대에서 기술 혁신성과 산업 기여도를 인정받았다. 마이크로디지탈은 9일 킨텍스 제2전시장에서 개최를 시작한 ‘월드푸드테크 컨펙스’(WFT26)에서... ...",
+      "pub_date": "Wed, 10 Jun 2026 18:42:00 +0900",
+      "source": "dt.co.kr",
       "category": "식품산업",
       "keywords_matched": [
-        "K-Food"
+        "푸드테크"
       ]
     },
     {
-      "title": "[K-FOOD 성장기] 오뚜기, 일본에도 거점 확보…영토 확장 잰걸음",
-      "link": "https://www.fetv.co.kr/news/articleView.html?idxno=303884",
-      "description": "미국 시장 내 K-푸드 수요 증가에 대응하고 공급 안정성을 높이기 위한 차원이다. 브랜드 인지도 제고를... 미국 내 K-푸드 수요 확대에 맞춰 주류 유통채널 입점 확대와 현지화 마케팅을 강화한 영향으로 분석된다. 반면... ...",
-      "pub_date": "Wed, 10 Jun 2026 11:04:00 +0900",
-      "source": "fetv.co.kr",
+      "title": "바이오진흥원, 월드푸드테크협의회 공로상 수상",
+      "link": "http://www.jjn.co.kr/news/articleView.html?idxno=1043294",
+      "description": "전북바이오융합산업진흥원(원장 이은미, 이하 바이오진흥원)은 지난 9일 일산 킨텍스에서 열린 'World FoodTech ConfEx 2026'에서 푸드테크 산업 육성과 지역 푸드테크 생태계 조성에 기여한 공로를 인정받아... ...",
+      "pub_date": "Wed, 10 Jun 2026 18:14:00 +0900",
+      "source": "jjn.co.kr",
       "category": "식품산업",
       "keywords_matched": [
-        "K-Food"
+        "푸드테크"
+      ]
+    },
+    {
+      "title": "푸드테크 인재양성, 교육 성과 넘어 산업 경쟁력 확대 제언",
+      "link": "https://it.chosun.com/news/articleView.html?idxno=2023092163642",
+      "description": "국내 푸드테크 산업이 대학 내 계약학과 확대를 통해 인재 양성에 힘을 쏟는 가운데 교육 현장의 성과가 산업 경쟁력으로 이어져야 한다는 제언이 나왔다. 10일 경기 고양시 킨텍스에서 열린 월드푸드테크 2026 컨펙스의... ...",
+      "pub_date": "Wed, 10 Jun 2026 17:54:00 +0900",
+      "source": "it.chosun.com",
+      "category": "식품산업",
+      "keywords_matched": [
+        "푸드테크"
+      ]
+    },
+    {
+      "title": "동원F&B, '월드푸드테크 컨펙스 2026'에서 Grand Prize 수상",
+      "link": "http://www.bokuennews.com/news/article.html?no=279546",
+      "description": "9일 고양시 킨텍스에서 진행된 '월드푸드테크 컨펙스 2026' 시상식에서 김성용 동원F&B 대표(오른쪽)가 강금실 조직위원장(왼쪽)과 기념 촬영을 하고 있다 동원F&B가 글로벌 무대에서 차세대 미래 먹거리인 블루... ...",
+      "pub_date": "Wed, 10 Jun 2026 17:38:00 +0900",
+      "source": "bokuennews.com",
+      "category": "식품산업",
+      "keywords_matched": [
+        "푸드테크"
+      ]
+    },
+    {
+      "title": "대상웰라이프, WFT26 ConfEx 최고상 수상... \"푸드테크 경쟁력 입증\"",
+      "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=200972",
+      "description": "이러한 흐름 속에서 대상웰라이프가 글로벌 푸드테크 행사에서 최고상을 수상하며 관련 분야 경쟁력을 인정받았다. 대상웰라이프는 지난 9일 경기 고양시 킨텍스에서 열린 'WFT26 ConfEx'에서 최고상인 'Grand Prize'를... ...",
+      "pub_date": "Wed, 10 Jun 2026 17:06:00 +0900",
+      "source": "thefirstmedia.net",
+      "category": "식품산업",
+      "keywords_matched": [
+        "푸드테크"
+      ]
+    },
+    {
+      "title": "쿠쿠, 월드푸드테크 컨펙스서 2관왕…푸드테크 경쟁력 입증",
+      "link": "http://www.lawissue.co.kr/view.php?ud=202606101701404584204ead0791_12",
+      "description": "쿠쿠가 ‘월드푸드테크 컨펙스(World FoodTech ConfEx)’에서 ‘농림축산식품부 장관상’과 ‘그랜드 프라이즈상’을 수상했다고 10일 밝혔다. 이번 행사는 6월 9일부터 12일까지 고양 킨텍스에서 열리며, 쿠쿠는... ...",
+      "pub_date": "Wed, 10 Jun 2026 17:04:00 +0900",
+      "source": "lawissue.co.kr",
+      "category": "식품산업",
+      "keywords_matched": [
+        "푸드테크"
+      ]
+    },
+    {
+      "title": "동원F&B, 글로벌 푸드테크 컨퍼런스서 최고상…수산 단백질 기술력 인정",
+      "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=247945",
+      "description": "동원F&B가 고양 킨텍스에서 열린 '월드푸드테크 컨펙스 2026' 시상식에서 최고상인 Grand Prize를 거머쥐었다고 9일 밝혔다. 수산 단백질을 뜻하는 '블루 프로틴' 분야에서 기술 혁신성과 글로벌 확장 가능성을 높이... ...",
+      "pub_date": "Wed, 10 Jun 2026 16:46:00 +0900",
+      "source": "insightkorea.co.kr",
+      "category": "식품산업",
+      "keywords_matched": [
+        "푸드테크"
+      ]
+    },
+    {
+      "title": "전북바이오진흥원, 'World FoodTech ConfEx 2026'서 공로상...푸드테크 산...",
+      "link": "http://www.jeollailbo.com/news/articleView.html?idxno=802354",
+      "description": "전북바이오융합산업진흥원이 도내 푸드테크 발전에 기여한 공로를 인정받았다. 바이오진흥원(원장 이은미)는 'World FoodTech ConfEx 2026'에서 푸드테크 산업 생태계 조성에 기여한 기관으로 선정돼 월드푸드테크협의회... ...",
+      "pub_date": "Wed, 10 Jun 2026 16:36:00 +0900",
+      "source": "jeollailbo.com",
+      "category": "식품산업",
+      "keywords_matched": [
+        "푸드테크"
+      ]
+    },
+    {
+      "title": "메디쏠라, 2026 월드푸드테크 컨펙스서 Best PrizeㆍSpecial Prize 동시 수...",
+      "link": "https://www.etnews.com/20260610000427",
+      "description": "2026 월드푸드테크 컨펙스에서 메디쏠라가 혁신적인 푸드테크 기업 및 기술에 수여되는 'Best Prize'와 'Special Prize'를 동시 수상했다. Best Prize는 푸드테크 산업 내 혁신성과 성장 가능성을 갖춘 기업 및 기술에 수여되는... ...",
+      "pub_date": "Wed, 10 Jun 2026 16:35:00 +0900",
+      "source": "etnews.com",
+      "category": "식품산업",
+      "keywords_matched": [
+        "푸드테크"
       ]
     },
     {
@@ -591,17 +690,6 @@
       "description": "인정푸드테크가 고양시 킨텍스에서 개최된 ‘월드푸드테크 컨펙스 2026’(WFT26)에서 ‘베스트 프라이즈’을 수상했다고 10일 밝혔다. WFT26은 전 세계 푸드테크 기업과 연구기관, 학계 전문가, 투자기관, 정부 관계자들이... ...",
       "pub_date": "Wed, 10 Jun 2026 16:17:00 +0900",
       "source": "dt.co.kr",
-      "category": "식품산업",
-      "keywords_matched": [
-        "푸드테크"
-      ]
-    },
-    {
-      "title": "전북바이오융합산업진흥원 전북 푸드테크 도약 공로 인정받아",
-      "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3066049",
-      "description": "지난 9일 전북바이오융합산업진흥원 이은미 원장이  'World FoodTech ConfEx 2026'에서 푸드테크 산업 육성과 지역 생태계 조성에 기여한 공로를 인정받아 월드푸드테크협의회 공로상을 수상했다.... ...",
-      "pub_date": "Wed, 10 Jun 2026 16:00:00 +0900",
-      "source": "newsclaim.co.kr",
       "category": "식품산업",
       "keywords_matched": [
         "푸드테크"
@@ -624,105 +712,6 @@
       "description": "바이오푸드테크 기반 임팩트 프랜차이즈 기업 ㈜힘난다가 ‘WFT26 ConfEx(World FoodTech Conference & Exhibition 2026)’에서 Young Prize를 수상했다. WFT26 ConfEx는 월드푸드테크협의회와 대한상공회의소, 서울대학교가 공동... ...",
       "pub_date": "Wed, 10 Jun 2026 15:41:00 +0900",
       "source": "dt.co.kr",
-      "category": "식품산업",
-      "keywords_matched": [
-        "푸드테크"
-      ]
-    },
-    {
-      "title": "바이오진흥원, 월드 푸드테크 콘펙스서 '공로상' 수상",
-      "link": "http://www.jeonmin.co.kr/news/articleView.html?idxno=441285",
-      "description": "사진=전북바이오융합산업진흥원 국내 푸드테크 분야 대표 행사에서 전북바이오융합산업진흥원이 공로상을 수상했다. 지난 9일 일산 킨텍스에서 열린 '월드 푸드테크 콘펙스(World FoodTech ConfEx) 2026'에서... ...",
-      "pub_date": "Wed, 10 Jun 2026 15:40:00 +0900",
-      "source": "jeonmin.co.kr",
-      "category": "식품산업",
-      "keywords_matched": [
-        "푸드테크"
-      ]
-    },
-    {
-      "title": "[식품 산업] 맥도날드·대상, 월드컵 마케팅·푸드테크 수상",
-      "link": "http://www.weeklytoday.com/news/articleView.html?idxno=779257",
-      "description": "WFT26 ConfEx는 월드푸드테크협의회와 대한상공회의소, 서울대학교가 공동 주최하는 글로벌 식품·기술 융합 행사로 대상웰라이프가 받은 Grand Prize는 산업적 영향력과 혁신성을 기준으로 월드푸드테크 산업을... ...",
-      "pub_date": "Wed, 10 Jun 2026 15:40:00 +0900",
-      "source": "weeklytoday.com",
-      "category": "식품산업",
-      "keywords_matched": [
-        "푸드테크"
-      ]
-    },
-    {
-      "title": "공주시, 푸드테크 연구지원센터 유치 위한 산학연관 정책 세션",
-      "link": "http://www.dynews.co.kr/news/articleView.html?idxno=853611",
-      "description": "［동양일보 유환권 기자］ 공주시가 미래 신성장 동력인 푸드테크 산업 육성과 국내 식품기업의 글로벌 규제 대응 지원을 위해 '친환경 포장 푸드테크 연구지원센터' 유치에 본격 나섰다고 10일 밝혔다. 시는 지난 9일... ...",
-      "pub_date": "Wed, 10 Jun 2026 15:25:00 +0900",
-      "source": "dynews.co.kr",
-      "category": "식품산업",
-      "keywords_matched": [
-        "푸드테크"
-      ]
-    },
-    {
-      "title": "성남산단公, ‘푸드테크 AI 리더스포럼’ 개최…참가비 등 혜택",
-      "link": "https://www.munhwa.com/article/11594632?ref=naver",
-      "description": "경기 성남산업단지관리공단이 주최하는 ‘푸드테크 AI 리더스포럼’ 안내문. 성남산업단지관리공단 제공 성남=박성훈 기자 경기 성남산업단지관리공단이 인공지능(AI)과 푸드테크 산업의 미래를 이끌 기업이 함께하는... ...",
-      "pub_date": "Wed, 10 Jun 2026 15:09:00 +0900",
-      "source": "munhwa.com",
-      "category": "식품산업",
-      "keywords_matched": [
-        "푸드테크"
-      ]
-    },
-    {
-      "title": "쿠쿠, 월드푸드테크 컨펙스서 ‘농식품부 장관상’·‘그랜드 프라이즈...",
-      "link": "http://www.segyebiz.com/newsView/20260610512342?OutUrl=naver",
-      "description": "전시회서 AI 인덕션 전시…개발 중인 AI 바리스타 정수기 전시도 월드푸드테크 컨펙스 내 쿠쿠 부스 전경. 쿠쿠 제공 쿠쿠는 지난 9일 개막한 월드푸드테크 컨펙스에서 식품 산업을 선도할 수 있는 우수한 역량을 갖춘... ...",
-      "pub_date": "Wed, 10 Jun 2026 14:56:00 +0900",
-      "source": "segyebiz.com",
-      "category": "식품산업",
-      "keywords_matched": [
-        "푸드테크"
-      ]
-    },
-    {
-      "title": "밥스누, 월드푸드테크컨펙스 베스트 프라이즈상 거머쥐어",
-      "link": "https://www.dt.co.kr/article/12066866?ref=naver",
-      "description": "밥스누는 이 기술을 통해 고양시 킨텍스에서 9일 개막한 ‘월드푸드테크 컨펙스 2026’(WFT26 컨펙스)에서 혁신 푸드테크 ‘베스트 프라이즈’ 상을 수상했다. 밥스누는 이기원 서울대 식품생명공학과 교수의 25년 약콩... ...",
-      "pub_date": "Wed, 10 Jun 2026 14:49:00 +0900",
-      "source": "dt.co.kr",
-      "category": "식품산업",
-      "keywords_matched": [
-        "푸드테크"
-      ]
-    },
-    {
-      "title": "엔피케이, K-낙산균·단쇄지방산으로 푸드테크 혁신 도전",
-      "link": "https://www.dt.co.kr/article/12066864?ref=naver",
-      "description": "이와 동시에 기술력을 바탕으로 글로벌 푸드테크 시장에서의 존재감을 키우고 있다. 엔피케이는 이런 기술력을 인정받아 9일 경기 고양 킨텍스에서 개막한 ‘월드푸드테크 컨펙스 2026’(WFT26 컨펙스)에서 혁신... ...",
-      "pub_date": "Wed, 10 Jun 2026 14:46:00 +0900",
-      "source": "dt.co.kr",
-      "category": "식품산업",
-      "keywords_matched": [
-        "푸드테크"
-      ]
-    },
-    {
-      "title": "경북TP 'WFT26 ConfEx'서 공로상 수상…지역 푸드테크 혁신 저력 입증",
-      "link": "https://www.cnbnews.com/news/articleView.html?idxno=1004165",
-      "description": "경북테크노파크가 글로벌 푸드테크 무대에서 지역 내 바이오 융합 산업 발전을 이끈 성과를 전방위로 인정받으며 대한민국 미래 식품 산업의 핵심 거점으로서 존재감을 확고히 했다. 경북테크노파크는 지난 9일부터... ...",
-      "pub_date": "Wed, 10 Jun 2026 14:10:00 +0900",
-      "source": "cnbnews.com",
-      "category": "식품산업",
-      "keywords_matched": [
-        "푸드테크"
-      ]
-    },
-    {
-      "title": "대상웰라이프, WFT26 ConfEx 최고상…푸드테크 선도기업 선정",
-      "link": "https://www.g-enews.com/view.php?ud=202606101402229821740eacf404_1",
-      "description": "대상웰라이프가 글로벌 푸드테크 전시·컨퍼런스 행사인 'WFT26 ConfEx'에서 최고 등급인 그랜드프라이즈(Grand Prize)를 수상했다. 대상웰라이프는 지난 9일 경기 고양시 킨텍스에서 열린 WFT26 ConfEx에서 산업 선도성과 시장... ...",
-      "pub_date": "Wed, 10 Jun 2026 14:06:00 +0900",
-      "source": "g-enews.com",
       "category": "식품산업",
       "keywords_matched": [
         "푸드테크"
@@ -754,9 +743,9 @@
       ]
     },
     {
-      "title": "한식진흥원, 농번기 일손 지원… ESG 사회공헌 강화",
-      "link": "http://www.newsfarm.co.kr/news/articleView.html?idxno=101210",
-      "description": "한국농업신문, NEWSFARM 한식진흥원(이사장 이규민)이 지난달 19일 경기 파주시 소재 농가(구본일 발효)를 찾아 농촌 일손 돕기 봉사활동을 펼치며 ESG 경영 실천에 나섰다고 밝혔다.  한식진흥원(이사장 이규민)이 지난달... ...",
+      "title": "한식진흥원·서울재동초, 한식문화 체험교육 협력체계 구축",
+      "link": "http://www.newsfarm.co.kr/news/articleView.html?idxno=101209",
+      "description": "한국농업신문, NEWSFARM 한식진흥원(이사장 이규민)은 서울재동초등학교(교장 성인진)와 손을 잡고, 어린이들에게 다채로운 한식문화 체험 및 교육 기회를 제공하기 위한 업무협약을 체결했다고 밝혔다.  한식진흥원(이사장... ...",
       "pub_date": "Tue, 02 Jun 2026 13:56:00 +0900",
       "source": "newsfarm.co.kr",
       "category": "관계기관 주요 동향",
@@ -765,9 +754,9 @@
       ]
     },
     {
-      "title": "한식진흥원·서울재동초, 한식문화 체험교육 협력체계 구축",
-      "link": "http://www.newsfarm.co.kr/news/articleView.html?idxno=101209",
-      "description": "한국농업신문, NEWSFARM 한식진흥원(이사장 이규민)은 서울재동초등학교(교장 성인진)와 손을 잡고, 어린이들에게 다채로운 한식문화 체험 및 교육 기회를 제공하기 위한 업무협약을 체결했다고 밝혔다.  한식진흥원(이사장... ...",
+      "title": "한식진흥원, 농번기 일손 지원… ESG 사회공헌 강화",
+      "link": "http://www.newsfarm.co.kr/news/articleView.html?idxno=101210",
+      "description": "한국농업신문, NEWSFARM 한식진흥원(이사장 이규민)이 지난달 19일 경기 파주시 소재 농가(구본일 발효)를 찾아 농촌 일손 돕기 봉사활동을 펼치며 ESG 경영 실천에 나섰다고 밝혔다.  한식진흥원(이사장 이규민)이 지난달... ...",
       "pub_date": "Tue, 02 Jun 2026 13:56:00 +0900",
       "source": "newsfarm.co.kr",
       "category": "관계기관 주요 동향",
@@ -820,54 +809,10 @@
       ]
     },
     {
-      "title": "쿠쿠, 농림축산식품부 장관상·그랜드 프라이즈상 2관왕",
-      "link": "https://www.cstimes.com/news/articleView.html?idxno=709233",
-      "description": "컨슈머타임스=곽민구 기자 | 쿠쿠가 오는 12일까지 킨텍스에서 열리는 월드푸드테크 컨펙스(World FoodTech ConfEx)에서 식품 산업을 선도할 수 있는 역량을 갖춘 푸드테크 기업으로 선정되며 농림축산식품부 장관상... ...",
-      "pub_date": "Wed, 10 Jun 2026 15:54:00 +0900",
-      "source": "cstimes.com",
-      "category": "관계기관 주요 동향",
-      "keywords_matched": [
-        "농림축산식품부"
-      ]
-    },
-    {
-      "title": "이승돈 농촌진흥청장, 태평양공동체와 양해각서 체결",
-      "link": "https://www.yna.co.kr/view/PYH20260610149100013?input=1196m",
-      "description": "이승돈 농촌진흥청장이 10일 전북 전주시 농촌진흥청에서 태평양공동체와 농업 협력 강화를 위한 양해각서를 체결한 후 캐런 마푸수아 토지자원부장과 기념 촬영하고 있다. 2026.6.10 [농촌진흥청 제공. 재판매 및 DB... ...",
-      "pub_date": "Wed, 10 Jun 2026 14:55:00 +0900",
-      "source": "yna.co.kr",
-      "category": "관계기관 주요 동향",
-      "keywords_matched": [
-        "농촌진흥청"
-      ]
-    },
-    {
-      "title": "농촌진흥청-태평양공동체, 농업 협력 강화 위한 MOU 체결",
-      "link": "https://www.newsis.com/view/NISI20260610_0021315164",
-      "description": "이승돈 농촌진흥청장이 10일 전북 전주 농촌진흥청에서 캐런 마푸수아 태평양공동체(SPC) 토지자원부장과 농업 협력 강화를 위한 양해각서(MOU)를 체결한 뒤 기념촬영 하고 있다. (사진=농촌진흥청 제공)... ...",
-      "pub_date": "Wed, 10 Jun 2026 14:47:00 +0900",
-      "source": "newsis.com",
-      "category": "관계기관 주요 동향",
-      "keywords_matched": [
-        "농촌진흥청"
-      ]
-    },
-    {
-      "title": "농촌진흥청, 휴가철 앞두고 농촌관광사업장 안전 점검",
-      "link": "http://www.nongup.net/news/articleView.html?idxno=33284",
-      "description": "이승돈 농촌진흥청장이 6월 9일 세종시 농가맛집을 방문해 시설 안전을 점검했다 (사진제공=농촌진흥청 제공) 농촌진흥청이 여름 휴가철을 앞두고 농촌 체험·관광사업장에 대한 안전 점검을 추진 중이다. 이승돈... ...",
-      "pub_date": "Wed, 10 Jun 2026 14:44:00 +0900",
-      "source": "nongup.net",
-      "category": "관계기관 주요 동향",
-      "keywords_matched": [
-        "농촌진흥청"
-      ]
-    },
-    {
-      "title": "농촌진흥청, 어린이와 함께하는 ‘전통 손 모내기 체험 행사’ 열어",
-      "link": "https://www.newsam.co.kr/news/article.html?no=43167",
-      "description": "6월 9일부터 3일간 수원 벼 시험 논에서 개최 관내 유치원, 어린이집 원아 초청 전통 모내기 체험과 식량작물 관찰…우리 농업 소중함 일깨워 농촌진흥청(청장 이승돈)은 6월 9일 국립식량과학원 중북부작물연구센터(경기도... ...",
-      "pub_date": "Wed, 10 Jun 2026 14:16:00 +0900",
+      "title": "농촌진흥청-태평양공동체(SPC), 농업 협력 구축 양해각서(MOU) 체결",
+      "link": "https://www.newsam.co.kr/news/article.html?no=43178",
+      "description": "디지털 농업기술, 기후변화 대응 현장 데이터 결합 태평양 도서국의 식량안보 등 협력 기반 조성 농촌진흥청(청장 이승돈)은 6월 10일 본청에서 태평양공동체(SPC: Secretariat of the Pacific Community)와 태평양 지역 농업 협력... ...",
+      "pub_date": "Wed, 10 Jun 2026 16:42:00 +0900",
       "source": "newsam.co.kr",
       "category": "관계기관 주요 동향",
       "keywords_matched": [
@@ -875,11 +820,11 @@
       ]
     },
     {
-      "title": "농촌진흥청, 전국 농업기술원장과 현안 점검 회의 진행",
-      "link": "https://www.newsam.co.kr/news/article.html?no=43166",
-      "description": "김상경 차장 주재, 6월 10일 본청서 개최 기관별 상반기 주요 성과 공유…당면 현안 논의 농촌진흥청(청장 이승돈)은 6월 10일 본청 영농종합상황실에서에서 김상경 차장 주재로 전국 9개 도 농업기술원장, 전국... ...",
-      "pub_date": "Wed, 10 Jun 2026 14:02:00 +0900",
-      "source": "newsam.co.kr",
+      "title": "마늘 농사, 기계화로 다 된다…농촌진흥청, 창녕서 시연회",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026061016201748768",
+      "description": "이에 농촌진흥청은 마늘 종자 준비부터 파종-수확-저장까지 전 과정을 기계화하는 기술을 연구하고 작업 성능과 활용성을 높이는 작업을 진행하고 있다. 이와 관련해 농촌진흥청 김상경 차장은 6월 10일 경남 창녕에서... ...",
+      "pub_date": "Wed, 10 Jun 2026 16:28:00 +0900",
+      "source": "busan.com",
       "category": "관계기관 주요 동향",
       "keywords_matched": [
         "농촌진흥청"
@@ -894,6 +839,17 @@
       "category": "관계기관 주요 동향",
       "keywords_matched": [
         "한국식품안전관리인증원"
+      ]
+    },
+    {
+      "title": "\"청렴도 경쟁력\"... 농협중앙회, 2026 청렴워크숍 개최",
+      "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=201023",
+      "description": "사진=농협중앙회 ESG 경영과 내부통제 강화가 기업 경영의 핵심 과제로 부상하면서 윤리경영과 청렴문화 정착을 위한 조직 차원의 노력도 확대되고 있다. 금융·유통·공공 분야를 중심으로 임직원의 준법의식을 높이고... ...",
+      "pub_date": "Wed, 10 Jun 2026 17:12:00 +0900",
+      "source": "thefirstmedia.net",
+      "category": "관계기관 주요 동향",
+      "keywords_matched": [
+        "농협중앙회"
       ]
     },
     {
@@ -946,17 +902,6 @@
       "description": "▲농협중앙회 농협중앙회는 서울 중구 본관에서 2026년 청렴워크숍을 열고 조직 내 윤리경영 강화를 위한 프로그램을 진행했다고 밝혔다. 이번 워크숍에는 임원과 집행간부 등이 참석했으며, 젊은 세대로 구성된... ...",
       "pub_date": "Wed, 10 Jun 2026 12:32:00 +0900",
       "source": "weeklytoday.com",
-      "category": "관계기관 주요 동향",
-      "keywords_matched": [
-        "농협중앙회"
-      ]
-    },
-    {
-      "title": "농협중앙회 \"청렴하고 깨끗한 농협 구현\"",
-      "link": "http://www.bokuennews.com/news/article.html?no=279500",
-      "description": "9일 서울 중구 농협중앙회 본관에서 열린 2026년 청렴워크숍에서 농협중앙회 박서홍 부회장(사진 앞줄 가운데)을 비롯한 참석자들이 기념 촬영을 하고 있다 농협이 기업윤리의 날을 기념해 '청렴하고 깨끗한 농협'을... ...",
-      "pub_date": "Wed, 10 Jun 2026 10:06:00 +0900",
-      "source": "bokuennews.com",
       "category": "관계기관 주요 동향",
       "keywords_matched": [
         "농협중앙회"
