@@ -122,17 +122,6 @@
       ]
     },
     {
-      "title": "“2차 공공기관 잡아라”…완주군, 혁신도시 188만평 확장 ‘승부수’",
-      "link": "https://www.jjan.kr/article/20260804500178",
-      "description": "실제 공공기관 2차 이전을 앞두고 도내에서는 익산시가 국가식품클러스터와 KTX 교통망, 바이오산업을, 군산시는 새만금과 항만·물류 인프라를, 완주군은 혁신도시와 연구기관 집적, 농생명·에너지 산업 기반을 각각... ...",
-      "pub_date": "Tue, 04 Aug 2026 15:14:00 +0900",
-      "source": "jjan.kr",
-      "category": "식품진흥원 & 국가식품클러스터",
-      "keywords_matched": [
-        "국가식품클러스터"
-      ]
-    },
-    {
       "title": "식품진흥원, 해외 표시사항 컨설팅 지원 확대…식품기업 수출 규제 대응...",
       "link": "http://www.youngnong.co.kr/news/articleView.html?idxno=61324",
       "description": "한국식품산업클러스터진흥원은 해외인증 지원사업의 일환으로 제품 표시사항(라벨) 컨설팅을 추진하고, 참여 기업을 오는 8월 5일부터 18일까지 모집한다고 4일 밝혔다. 최근 주요 수출국을 중심으로 식품안전 기준과... ...",
@@ -188,9 +177,9 @@
       ]
     },
     {
-      "title": "식품진흥원, 지역 특산물 활용 청년기업 성장 지원",
-      "link": "http://www.newsfarm.co.kr/news/articleView.html?idxno=101854",
-      "description": "한국식품산업클러스터진흥원(이사장 김덕호, 이하 식품진흥원)이 지역 청년기업의 익산 특산물 활용 신제품 개발과 상품화를 지원했다. 식품진흥원은 '2026년 소스 기술사업화 지원사업'을 통해 소이프트바이옴(대표... ...",
+      "title": "식품진흥원·한국에스지에스, K-푸드 수출 지원 협력",
+      "link": "http://www.newsfarm.co.kr/news/articleView.html?idxno=101855",
+      "description": "한국식품산업클러스터진흥원(이사장 김덕호, 이하 식품진흥원)이 한국에스지에스㈜(대표 이인섭)와 협력해 국내 식품기업의 국제인증과 글로벌 규제 대응 지원을 강화한다. 식품진흥원은 지난달 30일 글로벌 시험·검사... ...",
       "pub_date": "Tue, 04 Aug 2026 13:52:00 +0900",
       "source": "newsfarm.co.kr",
       "category": "식품진흥원 & 국가식품클러스터",
@@ -199,9 +188,9 @@
       ]
     },
     {
-      "title": "식품진흥원·한국에스지에스, K-푸드 수출 지원 협력",
-      "link": "http://www.newsfarm.co.kr/news/articleView.html?idxno=101855",
-      "description": "한국식품산업클러스터진흥원(이사장 김덕호, 이하 식품진흥원)이 한국에스지에스㈜(대표 이인섭)와 협력해 국내 식품기업의 국제인증과 글로벌 규제 대응 지원을 강화한다. 식품진흥원은 지난달 30일 글로벌 시험·검사... ...",
+      "title": "식품진흥원, 지역 특산물 활용 청년기업 성장 지원",
+      "link": "http://www.newsfarm.co.kr/news/articleView.html?idxno=101854",
+      "description": "한국식품산업클러스터진흥원(이사장 김덕호, 이하 식품진흥원)이 지역 청년기업의 익산 특산물 활용 신제품 개발과 상품화를 지원했다. 식품진흥원은 '2026년 소스 기술사업화 지원사업'을 통해 소이프트바이옴(대표... ...",
       "pub_date": "Tue, 04 Aug 2026 13:52:00 +0900",
       "source": "newsfarm.co.kr",
       "category": "식품진흥원 & 국가식품클러스터",
@@ -344,6 +333,17 @@
   ],
   "식품산업": [
     {
+      "title": "K-food becomes Korea's newest travel souvenir for visitors",
+      "link": "https://www.koreatimes.co.kr/path/A2026080317250001220",
+      "description": "Korean food has stopped being just something to eat during a trip. For many visitors, it has become one of the country's most popular types of souvenirs. The trend comes as Korean food continues... ...",
+      "pub_date": "Thu, 06 Aug 2026 07:00:00 +0900",
+      "source": "koreatimes.co.kr",
+      "category": "식품산업",
+      "keywords_matched": [
+        "K-Food"
+      ]
+    },
+    {
       "title": "중동ㆍ유럽ㆍ남미 입맛 잡은 한식⋯지속성장 열쇠는 ‘현지화’ [K-Food+...",
       "link": "https://www.etoday.co.kr/news/view/2611148",
       "description": "이투데이=세종=곽도흔 기자 | 농식품, 신시장 영토 확장 중동, 인삼ㆍ건강기능식 큰 관심 유럽, 라면ㆍ닭고기 일상식으로 수도 넘어 2.3도시로 소비 확대 기업들, 할랄ㆍ검역 기준 맞춰야 정부, K컬처ㆍ미식관광 연계 홍보... ...",
@@ -404,28 +404,6 @@
       "description": "사진=CJ제일제당 제공 CJ제일제당이 농식품 분야 스타트업 육성 프로그램 '프론티어랩스' 6기에 푸드테크 기반 스타트업 4개사를 최종 선정했다. 프론티어랩스는 CJ제일제당과 협업 가능한 혁신 기술과 아이디어를... ...",
       "pub_date": "Wed, 05 Aug 2026 17:32:00 +0900",
       "source": "kdfnews.com",
-      "category": "식품산업",
-      "keywords_matched": [
-        "푸드테크"
-      ]
-    },
-    {
-      "title": "CJ제일제당, 푸드테크 스타트업 4곳 품었다…‘프론티어랩스’ 역대 최...",
-      "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065598574249526",
-      "description": "CJ제일제당이 미래 식품산업을 이끌 푸드테크 스타트업 발굴과 육성에 속도를 낸다. 오픈 이노베이션 프로그램 ‘프론티어랩스(FRONTIER LABS)’ 6기 선발을 완료하고, 식품·유통·소재·로봇 분야 혁신 기업과의 협업을... ...",
-      "pub_date": "Wed, 05 Aug 2026 16:42:00 +0900",
-      "source": "megaeconomy.co.kr",
-      "category": "식품산업",
-      "keywords_matched": [
-        "푸드테크"
-      ]
-    },
-    {
-      "title": "건국대 글로컬캠퍼스, 푸드테크 협의체 간담회 개최",
-      "link": "https://www.dynews.co.kr/news/articleView.html?idxno=860664",
-      "description": "［동양일보 윤규상］ ▲ 충북 푸드테크 이노베이션 공동연구센터 지산학연 협의체 간담회 참석자들이 기념촬영하고 있다. 건국대 글로컬캠퍼스 제공. 건국대 글로컬캠퍼스 RISE사업단이 5일 교수연구동에서 '충북... ...",
-      "pub_date": "Wed, 05 Aug 2026 16:26:00 +0900",
-      "source": "dynews.co.kr",
       "category": "식품산업",
       "keywords_matched": [
         "푸드테크"
@@ -718,6 +696,17 @@
       "category": "관계기관 주요 동향",
       "keywords_matched": [
         "한국농수산식품유통공사"
+      ]
+    },
+    {
+      "title": "밀양시, 농림축산식품부·산림청과 협력해 가뭄 대응 총력",
+      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202608051703387790946",
+      "description": "산불진화차량 22대 투입, 3일간 1500톤 이상 농업용수 긴급 공급 경남 밀양시(시장 안병구)는 지속되는 폭염과 강수량 부족으로 인한 농업용수난을 극복하기 위해 농림축산식품부, 산림청과 협력해 긴급 농업용수... ...",
+      "pub_date": "Thu, 06 Aug 2026 08:22:00 +0900",
+      "source": "dnews.co.kr",
+      "category": "관계기관 주요 동향",
+      "keywords_matched": [
+        "농림축산식품부"
       ]
     },
     {
